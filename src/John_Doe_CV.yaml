@@ -1,108 +1,114 @@
 cv:
-  name: John Doe
-  location: Your Location
-  email: youremail@yourdomain.com
-  phone: tel:+90-541-999-99-99
-  website: https://yourwebsite.com/
+  name: Aviv Gelfand
+  location: Israel
+  email: avivgelfand@gmail.com
+  phone: 
   social_networks:
     - network: LinkedIn
-      username: yourusername
+      username: aviv-gelfand
     - network: GitHub
-      username: yourusername
+      username: AvivGelfand
   sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://github.com/sinaatalay/rendercv) is
-        a LaTeX-based CV/resume framework. It allows you to create
-        a high-quality CV or resume as a PDF file from a YAML
-        file, with **full Markdown syntax support** and **complete
-        control over the LaTeX code**.'
-      - The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-    quick_guide:
-      - bullet: Each section title is arbitrary and each section
-          contains a list of entries.
-      - bullet: 'There are 7 unique entry types: *BulletEntry*,
-          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-          *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Select a section title, pick an entry type, and
-          start writing your section!
-      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-          you can find a comprehensive user guide for RenderCV.'
-    education:
-      - institution: University of Pennsylvania
-        area: Computer Science
-        degree: BS
-        start_date: 2000-09
-        end_date: 2005-05
-        highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-          - '**Coursework:** Computer Architecture, Comparison
-            of Learning Algorithms, Computational Theory'
+    summary:
+      - As a third-year BSc / first-year MSc student in Statistics and Data Science at The Hebrew University of Jerusalem, I possess an intense intellectual curiosity. My passion for learning has driven me to develop technical expertise in Python, machine learning, deep learning, and big data processing.
+      - However, what I find most fulfilling is sharing my knowledge and fostering understanding. Whether as a teaching assistant, instructor or through team collaboration and brainstorming with colleagues, I strive to break down complex topics and facilitate a better grasp of intricate concepts.
+      - My interdisciplinary perspective, which combines a mathematical and statistical background with programming proficiency and some marketing experience, allows me to tackle problems with scientific rigor, attention to detail, and a methodical mindset. Drawing insights from diverse fields, I approach challenges from multiple angles.
+      - As I pursue cutting-edge research in Data Science and AI, I desire to contribute to advancing knowledge in these fields and ensure that it is applied responsibly for the betterment of humanity. I am eager to join an innovative organization where I can continue to learn, share my knowledge, and make a meaningful impact while leveraging my interdisciplinary mindset and commitment to scientific rigor.
+      - In addition to my on-campus learning, I am independently gaining experience and knowledge in ML, DL, Gen AI, and automation through various research roles and freelance projects.
+      - I am all ears if you have an exciting data science project or a role for me!
     experience:
-      - company: Apple
-        position: Software Engineer
-        location: Cupertino, CA
-        start_date: 2005-06
-        end_date: 2007-08
+      - company: The Hebrew University of Jerusalem
+        position: NLP Data Scientist / Research Assistant
+        location: Israel
+        start_date: 2023-10
+        end_date: 
         highlights:
-          - Reduced time to render user buddy lists by 75% by
-            implementing a prediction algorithm
-          - Integrated iChat with Spotlight Search by creating
-            a tool to extract metadata from saved chat transcripts
-            and provide metadata to a system-wide search database
-          - Redesigned chat file format and implemented backward
-            compatibility for search
-      - company: Microsoft
-        position: Software Engineer Intern
-        location: Redmond, WA
-        start_date: 2003-06
-        end_date: 2003-08
+          - Fine-tuned (SFT) Large Language models for a US-Israeli statistical legal research team, classified arguments in trial records.
+          - Applied LORA, PEFT, text cleaning, and statistical methods.
+          - Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.
+          - Corrected errors in the labeled data.
+          - Reached over .90 accuracy and over .80 F1 scores in most target labels, over 20% improvement from the initial benchmark.
+          - Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning.
+          - Acquired all relevant knowledge in PyTorch and LLMs with nothing but a laptop and the Internet.
+          - Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.
+      - company: Upscale Analytics
+        position: Statistics & Machine Learning Teaching Assistant
+        location: Israel
+        start_date: 2022-10
+        end_date: 
         highlights:
-          - Designed a UI for the VS open file switcher (Ctrl-Tab)
-            and extended it to tool windows
-          - Created a service to provide gradient across VS and
-            VS add-ins, optimizing its performance via caching
-          - Built an app to compute the similarity of all methods
-            in a codebase, reducing the time from $\mathcal{O}(n^2)$
-            to $\mathcal{O}(n \log n)$
-          - Created a test case generation tool that creates random
-            XML docs from XML Schema
-          - Automated the extraction and processing of large datasets
-            from legacy systems using SQL and Perl scripts
-    publications:
-      - title: 3D Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Frodo Baggins
-          - '***John Doe***'
-          - Samwise Gamgee
-        doi: 10.1109/TASC.2023.3340648
-        date: 2004-01
+          - Built and taught dozens of machine-learning projects in the company's course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
+          - Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning: linear and logistic regressions, ensemble learners (random forests & XGBoost), clustering with K-means, and DBSCAN.
+          - Promoted to be a lecturer in the course after 3 successful semesters of weekly TA sessions with a significant presence of students.
+          - Advanced from teaching assistant to instructor, then to a partner role.
+      - company: The Hebrew University of Jerusalem
+        position: Research & Development Assistant
+        location: Israel
+        start_date: 2022-04
+        end_date: 2023-03
+        highlights:
+          - Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
+          - Designed and analyzed online surveys; conducted literature reviews and academic peer reviews.
+          - Web-scraped data monthly.
+      - company: Israel Defense Forces
+        position: Data Analyst & Research Team Leader
+        location: Tel Aviv, Israel
+        start_date: 2018-12
+        end_date: 2020-12
+        highlights:
+          - Conducted economic research, assessments, and analytics for high-ranked decision-makers.
+          - Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
+          - Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
+    education:
+      - institution: The Hebrew University of Jerusalem
+        area: Statistics & Data Science
+        degree: Bachelor of Science - BS
+        start_date: 2021-12
+        end_date: 2024-12
+        highlights:
+          - 'GPA: 89'
+          - 'Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms'
+      - institution: The Hebrew University of Jerusalem
+        area: Statistics
+        degree: Master of Science - MS
+        start_date: 2023-09
+        end_date: 2026-07
+        highlights:
+          - 'Coursework: Signal Processing, Geometry of Data'
     projects:
-      - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+      - name: Fine Tuning Large Language Models
+        date: '2023-09 to 2024-04'
         highlights:
-          - Developed an electronic classroom where multiple users
-            can simultaneously view and draw on a "chalkboard"
-            with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
-      - name: Synchronized Desktop Calendar
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+          - This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.
+      - name: De Grandmizer Shtick! GenAI Hackathon
+        date: '2023-05'
         highlights:
-          - Developed a desktop calendar with globally shared
-            and synchronized calendars, allowing users to schedule
-            meetings with other users
-          - 'Tools Used: C#, .NET, SQL, XML'
-      - name: Custom Operating System
-        date: 2002
+          - De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
+          - The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
+      - name: Alfred - a Personal Moodle Bot
+        date: '2023-04'
         highlights:
-          - Built a UNIX-style OS with a scheduler, file system,
-            text editor, and calculator
-          - 'Tools Used: C'
+          - Alfred is a Python-based bot Scraping & Messaging bot that scrapes The Hebrew University of Jerusalem's Moodle and sends a message through Telegram about any new update or upload in upcoming deadlines for assignments.
+      - name: Driver Behavior Detection Using Smartphone Signals
+        date: '2024-05 to 2024-06'
+        highlights:
+          - A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
     technologies:
-      - label: Languages
-        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
-      - label: Technologies
-        details: .NET, Microsoft SQL Server, XCode, Interface
-          Builder
+      - label: Programming Languages & Tools
+        details: Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, PyTorch, Git
+      - label: Machine Learning & Data Science
+        details: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
+      - label: Other Skills
+        details: Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
+    languages:
+      - language: Arabic
+        fluency: Full Professional
+      - language: English
+        fluency: Professional Working
+      - language: Hebrew
+        fluency: Native Speaker
+      - language: Russian
+        fluency: Full Professional
 design:
   theme: classic
   font: Source Sans 3
