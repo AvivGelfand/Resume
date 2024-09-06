@@ -2,8 +2,9 @@
 <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
 # Aviv Gelfand's CV
 
+- Phone: +972 54 300 7257
 - Email: [avivgelfand@gmail.com](mailto:avivgelfand@gmail.com)
-- Location: Israel
+- Location: Jerusalem, Israel
 - LinkedIn: [aviv-gelfand](https://linkedin.com/in/aviv-gelfand)
 - GitHub: [AvivGelfand](https://github.com/AvivGelfand)
 
@@ -21,7 +22,6 @@ Solid experience in SW / AI student positions and projects, with independent lea
 ## The Hebrew University of Jerusalem, NLP Data Scientist / Research Assistant
 
 - Oct 2023 – present
-- Israel
 - Fine-tuned (SFT) Large Language models for a US-Israeli statistical legal research team, classified arguments in trial records.
 - Applied LORA, PEFT, text cleaning, and statistical methods.
 - Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.
@@ -34,37 +34,33 @@ Solid experience in SW / AI student positions and projects, with independent lea
 ## Upscale Analytics, Statistics & Machine Learning Teaching Assistant
 
 - Oct 2022 – present
-- Israel
-- Built and taught dozens of machine-learning projects in the companys course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
+- Built and taught dozens of machine-learning projects in the company's course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
 - Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests & XGBoost), clustering with K-means, and DBSCAN.
-- Promoted to be a lecturer in the course after 3 successful semesters of weekly TA sessions with a significant presence of students.
-- Advanced from teaching assistant to instructor, then to a partner role.
+- Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
 ## The Hebrew University of Jerusalem, Research & Development Assistant
 
 - Apr 2022 – Mar 2023
-- Israel
 - Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
-- Designed and analyzed online surveys; conducted literature reviews and academic peer reviews.
+- Designed and analyzed online surveys; conducted literature and academic peer reviews.
 - Web-scraped data monthly.
 
 ## Israel Defense Forces, Data Analyst & Research Team Leader
 
 - Dec 2018 – Dec 2020
-- Tel Aviv, Israel
 - Conducted economic research, assessments, and analytics for high-ranked decision-makers.
 - Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
 - Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
 
 # Education
 
-## The Hebrew University of Jerusalem, Bachelor of Science - BS in Statistics & Data Science
+## The Hebrew University of Jerusalem, BSc in Statistics & Data Science
 
-- Dec 2021 – Dec 2024
+- Dec 2021 – Aug 2024
 - GPA: 89
 - Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms
 
-## The Hebrew University of Jerusalem, Master of Science - MS in Statistics
+## The Hebrew University of Jerusalem, MSc in Statistics
 
 - Sept 2023 – July 2026
 - Coursework: Signal Processing, Geometry of Data
