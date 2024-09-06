@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        RenderCV Pipeline
+    </title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css"
+        integrity="sha512-Pmhg2i/F7+5+7SsdoUqKeH7UAZoVMYb1sxGOoJ0jWXAEHP0XV2H4CITyK267eHWp2jpj7rtqWNkmEOw1tNyYpg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <article class="markdown-body">
+        <!-- Remove below in src/markdown/Header.j2.md not in README.md -->
+
+        <h1>RenderCV Pipeline</h1>
+        <p>Are you ready to revolutionize the way you manage and craft your CVs and resumes?</p>
+        <p>Picture this:</p>
+        <ol>
+        <li>You simply update your <code>src/John_Doe_CV.yaml</code> input file and push the changes.</li>
+        <li>Then, a pipeline generates a new PDF and Markdown from it and uploads it to the repository.</li>
+        <li>When you are done with your work, you can create a new release on GitHub, tagging your CV with something like <code>v2024.04</code>. The pipeline will automatically add the PDF and its $\LaTeX$ source as assets to the release.</li>
+        <li>You have successfully created your CV pipeline, and all the history is in safe hands and reproducible.</li>
+        </ol>
+        <p><strong>How to start?</strong></p>
+        <ol>
+        <li><a href="https://github.com/new?template_name=rendercv-pipeline&amp;template_owner=sinaatalay">Click here</a> to create your CV repository based on this <code>rendercv-pipeline</code> template repository.</li>
+        <li>
+        <p>Edit either</p>
+        <ul>
+        <li>the <code>src/John_Doe_CV.yaml</code> file, or</li>
+        <li>the contents of <code>src/markdown</code> or <code>src/classic</code> directories</li>
+        </ul>
+        <p>and push. Then, see the magic happen.</p>
+        </li>
+        </ol>
+        <p><strong>Some tips</strong></p>
+        <ul>
+        <li>Learn more about <a href="https://github.com/sinaatalay/rendercv">RenderCV</a> to understand what you can do with this tool.</li>
+        <li>Edit and preview your CV in your browser without installing anything by creating a codespace. Click the &lt;&gt; <strong>Code</strong> button, then click the <strong>Codespaces</strong> tab, and then click <strong>Create codespace on main</strong>. The environment will be ready for RenderCV usage. Update <code>.vscode/launch.json</code> to point to your YAML file and press <code>F5</code> to run RenderCV in the browser.</li>
+        </ul>
+        <!-- Remove above in src/markdown/Header.j2.md not in README.md -->
+        <h1>Aviv Gelfand's CV</h1>
+        <ul>
+        <li>Email: <a href="mailto:avivgelfand@gmail.com">avivgelfand@gmail.com</a></li>
+        <li>Location: Israel</li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/aviv-gelfand">aviv-gelfand</a></li>
+        <li>GitHub: <a href="https://github.com/AvivGelfand">AvivGelfand</a></li>
+        </ul>
+        <h1>Summary</h1>
+        <p>As a third-year BSc / first-year MSc student in Statistics and Data Science at The Hebrew University of Jerusalem, I possess an intense intellectual curiosity. My passion for learning has driven me to develop technical expertise in Python, machine learning, deep learning, and big data processing.</p>
+        <p>However, what I find most fulfilling is sharing my knowledge and fostering understanding. Whether as a teaching assistant, instructor or through team collaboration and brainstorming with colleagues, I strive to break down complex topics and facilitate a better grasp of intricate concepts.</p>
+        <p>My interdisciplinary perspective, which combines a mathematical and statistical background with programming proficiency and some marketing experience, allows me to tackle problems with scientific rigor, attention to detail, and a methodical mindset. Drawing insights from diverse fields, I approach challenges from multiple angles.</p>
+        <p>As I pursue cutting-edge research in Data Science and AI, I desire to contribute to advancing knowledge in these fields and ensure that it is applied responsibly for the betterment of humanity. I am eager to join an innovative organization where I can continue to learn, share my knowledge, and make a meaningful impact while leveraging my interdisciplinary mindset and commitment to scientific rigor.</p>
+        <p>In addition to my on-campus learning, I am independently gaining experience and knowledge in ML, DL, Gen AI, and automation through various research roles and freelance projects.</p>
+        <p>I am all ears if you have an exciting data science project or a role for me!</p>
+        <h1>Experience</h1>
+        <h2>The Hebrew University of Jerusalem, NLP Data Scientist / Research Assistant</h2>
+        <ul>
+        <li>Oct 2023 – present</li>
+        <li>Israel</li>
+        <li>Fine-tuned (SFT) Large Language models for a US-Israeli statistical legal research team, classified arguments in trial records.</li>
+        <li>Applied LORA, PEFT, text cleaning, and statistical methods.</li>
+        <li>Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.</li>
+        <li>Corrected errors in the labeled data.</li>
+        <li>Reached over .90 accuracy and over .80 F1 scores in most target labels, over 20% improvement from the initial benchmark.</li>
+        <li>Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning.</li>
+        <li>Acquired all relevant knowledge in PyTorch and LLMs with nothing but a laptop and the Internet.</li>
+        <li>Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.</li>
+        </ul>
+        <h2>Upscale Analytics, Statistics &amp; Machine Learning Teaching Assistant</h2>
+        <ul>
+        <li>Oct 2022 – present</li>
+        <li>Israel</li>
+        <li>Built and taught dozens of machine-learning projects in the companys course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.</li>
+        <li>Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests &amp; XGBoost), clustering with K-means, and DBSCAN.</li>
+        <li>Promoted to be a lecturer in the course after 3 successful semesters of weekly TA sessions with a significant presence of students.</li>
+        <li>Advanced from teaching assistant to instructor, then to a partner role.</li>
+        </ul>
+        <h2>The Hebrew University of Jerusalem, Research &amp; Development Assistant</h2>
+        <ul>
+        <li>Apr 2022 – Mar 2023</li>
+        <li>Israel</li>
+        <li>Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.</li>
+        <li>Designed and analyzed online surveys; conducted literature reviews and academic peer reviews.</li>
+        <li>Web-scraped data monthly.</li>
+        </ul>
+        <h2>Israel Defense Forces, Data Analyst &amp; Research Team Leader</h2>
+        <ul>
+        <li>Dec 2018 – Dec 2020</li>
+        <li>Tel Aviv, Israel</li>
+        <li>Conducted economic research, assessments, and analytics for high-ranked decision-makers.</li>
+        <li>Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).</li>
+        <li>Created, updated, and maintained databases of macro-economical data via Microsoft Excel.</li>
+        </ul>
+        <h1>Education</h1>
+        <h2>The Hebrew University of Jerusalem, Bachelor of Science - BS in Statistics &amp; Data Science</h2>
+        <ul>
+        <li>Dec 2021 – Dec 2024</li>
+        <li>GPA: 89</li>
+        <li>Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms</li>
+        </ul>
+        <h2>The Hebrew University of Jerusalem, Master of Science - MS in Statistics</h2>
+        <ul>
+        <li>Sept 2023 – July 2026</li>
+        <li>Coursework: Signal Processing, Geometry of Data</li>
+        </ul>
+        <h1>Projects</h1>
+        <h2>Fine Tuning Large Language Models</h2>
+        <ul>
+        <li>2023-09 to 2024-04</li>
+        <li>This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.</li>
+        </ul>
+        <h2>De Grandmizer Shtick! GenAI Hackathon</h2>
+        <ul>
+        <li>May 2023</li>
+        <li>De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.</li>
+        <li>The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.</li>
+        </ul>
+        <h2>Alfred - a Personal Moodle Bot</h2>
+        <ul>
+        <li>Apr 2023</li>
+        <li>Alfred is a Python-based bot Scraping &amp; Messaging bot that scrapes The Hebrew University of Jerusalem's Moodle and sends a message through Telegram about any new update or upload in upcoming deadlines for assignments.</li>
+        </ul>
+        <h2>Driver Behavior Detection Using Smartphone Signals</h2>
+        <ul>
+        <li>2024-05 to 2024-06</li>
+        <li>A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.</li>
+        </ul>
+        <h1>Technologies</h1>
+        <ul>
+        <li>Programming Languages &amp; Tools: Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, PyTorch, Git</li>
+        <li>Machine Learning &amp; Data Science: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics</li>
+        <li>Other Skills: Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking</li>
+        </ul>
+    </article>
+</body>
+
+</html>
