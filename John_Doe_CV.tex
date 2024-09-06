@@ -19,8 +19,8 @@
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
 \usepackage[
-    pdftitle={John Doe's CV},
-    pdfauthor={John Doe},
+    pdftitle={Aviv Gelfand's CV},
+    pdfauthor={Aviv Gelfand},
     pdfcreator={LaTeX with RenderCV},
     colorlinks=true,
     urlcolor=primaryColor
@@ -56,7 +56,7 @@
 \makeatletter
 \let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
 \patchcmd{\ps@customFooterStyle}{\thepage}{
-    \color{gray}\textit{\small John Doe - Page \thepage{} of \pageref*{LastPage}}
+    \color{gray}\textit{\small Aviv Gelfand - Page \thepage{} of \pageref*{LastPage}}
 }{}{} % replace number by desired string
 \makeatother
 \pagestyle{customFooterStyle}
@@ -179,86 +179,67 @@
     \placelastupdatedtext
     \begin{header}
         \fontsize{30 pt}{30 pt}
-        \textbf{John Doe}
+        \textbf{Aviv Gelfand}
 
         \vspace{0.3 cm}
 
         \normalsize
-        \mbox{{\footnotesize\faMapMarker*}\hspace*{0.13cm}Your Location}%
+        \mbox{{\footnotesize\faMapMarker*}\hspace*{0.13cm}Israel}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{mailto:youremail@yourdomain.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}youremail@yourdomain.com}}%
+        \mbox{\hrefWithoutArrow{mailto:avivgelfand@gmail.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}avivgelfand@gmail.com}}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{tel:+90-541-999-99-99}{{\footnotesize\faPhone*}\hspace*{0.13cm}0541 999 99 99}}%
+        \mbox{\hrefWithoutArrow{https://linkedin.com/in/aviv-gelfand}{{\footnotesize\faLinkedinIn}\hspace*{0.13cm}aviv-gelfand}}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://yourwebsite.com/}{{\footnotesize\faLink}\hspace*{0.13cm}yourwebsite.com}}%
-        \kern 0.25 cm%
-        \AND%
-        \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://linkedin.com/in/yourusername}{{\footnotesize\faLinkedinIn}\hspace*{0.13cm}yourusername}}%
-        \kern 0.25 cm%
-        \AND%
-        \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://github.com/yourusername}{{\footnotesize\faGithub}\hspace*{0.13cm}yourusername}}%
+        \mbox{\hrefWithoutArrow{https://github.com/AvivGelfand}{{\footnotesize\faGithub}\hspace*{0.13cm}AvivGelfand}}%
     \end{header}
 
     \vspace{0.3 cm - 0.3 cm}
 
 
-    \section{Welcome to RenderCV!}
+    \section{Summary}
 
 
 
         
         \begin{onecolentry}
-            \href{https://github.com/sinaatalay/rendercv}{RenderCV} is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with \textbf{full Markdown syntax support} and \textbf{complete control over the LaTeX code}.
+            As a third-year BSc / first-year MSc student in Statistics and Data Science at The Hebrew University of Jerusalem, I possess an intense intellectual curiosity. My passion for learning has driven me to develop technical expertise in Python, machine learning, deep learning, and big data processing.
         \end{onecolentry}
 
         \vspace{0.2 cm}
 
         \begin{onecolentry}
-            The boilerplate content was inspired by \href{https://github.com/dnl-blkv/mcdowell-cv}{Gayle McDowell}.
+            However, what I find most fulfilling is sharing my knowledge and fostering understanding. Whether as a teaching assistant, instructor or through team collaboration and brainstorming with colleagues, I strive to break down complex topics and facilitate a better grasp of intricate concepts.
         \end{onecolentry}
 
+        \vspace{0.2 cm}
 
-    
-    \section{Quick Guide}
+        \begin{onecolentry}
+            My interdisciplinary perspective, which combines a mathematical and statistical background with programming proficiency and some marketing experience, allows me to tackle problems with scientific rigor, attention to detail, and a methodical mindset. Drawing insights from diverse fields, I approach challenges from multiple angles.
+        \end{onecolentry}
 
-    \begin{onecolentry}
-        \begin{highlightsforbulletentries}
+        \vspace{0.2 cm}
 
+        \begin{onecolentry}
+            As I pursue cutting-edge research in Data Science and AI, I desire to contribute to advancing knowledge in these fields and ensure that it is applied responsibly for the betterment of humanity. I am eager to join an innovative organization where I can continue to learn, share my knowledge, and make a meaningful impact while leveraging my interdisciplinary mindset and commitment to scientific rigor.
+        \end{onecolentry}
 
-        \item Each section title is arbitrary and each section contains a list of entries.
+        \vspace{0.2 cm}
 
-        \item There are 7 unique entry types: \textit{BulletEntry}, \textit{TextEntry}, \textit{EducationEntry}, \textit{ExperienceEntry}, \textit{NormalEntry}, \textit{PublicationEntry}, and \textit{OneLineEntry}.
+        \begin{onecolentry}
+            In addition to my on-campus learning, I am independently gaining experience and knowledge in ML, DL, Gen AI, and automation through various research roles and freelance projects.
+        \end{onecolentry}
 
-        \item Select a section title, pick an entry type, and start writing your section!
+        \vspace{0.2 cm}
 
-        \item \href{https://docs.rendercv.com/user_guide/}{Here}, you can find a comprehensive user guide for RenderCV.
-
-
-        \end{highlightsforbulletentries}
-    \end{onecolentry}
-
-    \section{Education}
-
-
-
-        
-        \begin{threecolentry}{\textbf{BS}}{
-            Sept 2000 – May 2005
-        }
-            \textbf{University of Pennsylvania}, Computer Science
-            \begin{highlights}
-                \item GPA: 3.9/4.0 (\href{https://example.com}{Transcript})
-                \item \textbf{Coursework:} Computer Architecture, Comparison of Learning Algorithms, Computational Theory
-            \end{highlights}
-        \end{threecolentry}
+        \begin{onecolentry}
+            I am all ears if you have an exciting data science project or a role for me!
+        \end{onecolentry}
 
 
     
@@ -268,17 +249,22 @@
 
         
         \begin{twocolentry}{
-            Cupertino, CA
+            Israel
 
-        June 2005 – Aug 2007
+        Oct 2023 – present
 
-        2 years 2 months
+        11 months
         }
-            \textbf{Apple}, Software Engineer
+            \textbf{The Hebrew University of Jerusalem}, NLP Data Scientist / Research Assistant
             \begin{highlights}
-                \item Reduced time to render user buddy lists by 75\% by implementing a prediction algorithm
-                \item Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-                \item Redesigned chat file format and implemented backward compatibility for search
+                \item Fine-tuned (SFT) Large Language models for a US-Israeli statistical legal research team, classified arguments in trial records.
+                \item Applied LORA, PEFT, text cleaning, and statistical methods.
+                \item Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.
+                \item Corrected errors in the labeled data.
+                \item Reached over .90 accuracy and over .80 F1 scores in most target labels, over 20\% improvement from the initial benchmark.
+                \item Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning.
+                \item Acquired all relevant knowledge in PyTorch and LLMs with nothing but a laptop and the Internet.
+                \item Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.
             \end{highlights}
         \end{twocolentry}
 
@@ -286,44 +272,85 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
-            Redmond, WA
+            Israel
 
-        June 2003 – Aug 2003
+        Oct 2022 – present
 
-        2 months
+        1 year 11 months
         }
-            \textbf{Microsoft}, Software Engineer Intern
+            \textbf{Upscale Analytics}, Statistics \& Machine Learning Teaching Assistant
             \begin{highlights}
-                \item Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-                \item Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-                \item Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-                \item Created a test case generation tool that creates random XML docs from XML Schema
-                \item Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
+                \item Built and taught dozens of machine-learning projects in the companys course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
+                \item Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests \& XGBoost), clustering with K-means, and DBSCAN.
+                \item Promoted to be a lecturer in the course after 3 successful semesters of weekly TA sessions with a significant presence of students.
+                \item Advanced from teaching assistant to instructor, then to a partner role.
+            \end{highlights}
+        \end{twocolentry}
+
+
+        \vspace{0.2 cm}
+
+        \begin{twocolentry}{
+            Israel
+
+        Apr 2022 – Mar 2023
+
+        11 months
+        }
+            \textbf{The Hebrew University of Jerusalem}, Research \& Development Assistant
+            \begin{highlights}
+                \item Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
+                \item Designed and analyzed online surveys; conducted literature reviews and academic peer reviews.
+                \item Web-scraped data monthly.
+            \end{highlights}
+        \end{twocolentry}
+
+
+        \vspace{0.2 cm}
+
+        \begin{twocolentry}{
+            Tel Aviv, Israel
+
+        Dec 2018 – Dec 2020
+
+        2 years 1 month
+        }
+            \textbf{Israel Defense Forces}, Data Analyst \& Research Team Leader
+            \begin{highlights}
+                \item Conducted economic research, assessments, and analytics for high-ranked decision-makers.
+                \item Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
+                \item Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
             \end{highlights}
         \end{twocolentry}
 
 
 
     
-    \section{Publications}
+    \section{Education}
 
 
 
         
-        \begin{samepage}
-            \begin{twocolentry}{
-                Jan 2004
-            }
-                \textbf{3D Finite Element Analysis of No-Insulation Coils}
+        \begin{threecolentry}{\textbf{Bachelor of Science - BS}}{
+            Dec 2021 – Dec 2024
+        }
+            \textbf{The Hebrew University of Jerusalem}, Statistics \& Data Science
+            \begin{highlights}
+                \item GPA: 89
+                \item Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms
+            \end{highlights}
+        \end{threecolentry}
 
-                \vspace{0.10 cm}
+        \vspace{0.2 cm}
 
-                \mbox{Frodo Baggins}, \mbox{\textbf{\textit{John Doe}}}, \mbox{Samwise Gamgee}
-                \vspace{0.10 cm}
-
-        \href{https://doi.org/10.1109/TASC.2023.3340648}{10.1109/TASC.2023.3340648}
-            \end{twocolentry}
-        \end{samepage}
+        \begin{threecolentry}{\textbf{Master of Science - MS}}{
+            Sept 2023 – July 2026
+        }
+            \textbf{The Hebrew University of Jerusalem}, Statistics
+            \begin{highlights}
+                \item Coursework: Signal Processing, Geometry of Data
+            \end{highlights}
+        \end{threecolentry}
 
 
     
@@ -333,12 +360,11 @@
 
         
         \begin{twocolentry}{
-            \href{https://github.com/sinaatalay/rendercv}{github.com/name/repo}
+            2023-09 to 2024-04
         }
-            \textbf{Multi-User Drawing Tool}
+            \textbf{Fine Tuning Large Language Models}
             \begin{highlights}
-                \item Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-                \item Tools Used: C++, MFC
+                \item This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.
             \end{highlights}
         \end{twocolentry}
 
@@ -346,12 +372,12 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
-            \href{https://github.com/sinaatalay/rendercv}{github.com/name/repo}
+            May 2023
         }
-            \textbf{Synchronized Desktop Calendar}
+            \textbf{De Grandmizer Shtick! GenAI Hackathon}
             \begin{highlights}
-                \item Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-                \item Tools Used: C\#, .NET, SQL, XML
+                \item De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
+                \item The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
             \end{highlights}
         \end{twocolentry}
 
@@ -359,12 +385,23 @@
         \vspace{0.2 cm}
 
         \begin{twocolentry}{
-            2002
+            Apr 2023
         }
-            \textbf{Custom Operating System}
+            \textbf{Alfred - a Personal Moodle Bot}
             \begin{highlights}
-                \item Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-                \item Tools Used: C
+                \item Alfred is a Python-based bot Scraping \& Messaging bot that scrapes The Hebrew University of Jerusalem's Moodle and sends a message through Telegram about any new update or upload in upcoming deadlines for assignments.
+            \end{highlights}
+        \end{twocolentry}
+
+
+        \vspace{0.2 cm}
+
+        \begin{twocolentry}{
+            2024-05 to 2024-06
+        }
+            \textbf{Driver Behavior Detection Using Smartphone Signals}
+            \begin{highlights}
+                \item A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
             \end{highlights}
         \end{twocolentry}
 
@@ -377,13 +414,19 @@
 
         
         \begin{onecolentry}
-            \textbf{Languages:} C++, C, Java, Objective-C, C\#, SQL, JavaScript
+            \textbf{Programming Languages \& Tools:} Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, PyTorch, Git
         \end{onecolentry}
 
         \vspace{0.2 cm}
 
         \begin{onecolentry}
-            \textbf{Technologies:} .NET, Microsoft SQL Server, XCode, Interface Builder
+            \textbf{Machine Learning \& Data Science:} Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
+        \end{onecolentry}
+
+        \vspace{0.2 cm}
+
+        \begin{onecolentry}
+            \textbf{Other Skills:} Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
         \end{onecolentry}
 
 
