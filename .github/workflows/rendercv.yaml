@@ -38,12 +38,6 @@ jobs:
           path: rendercv_output
       - uses: dorny/paths-filter@v3
         id: changes
-        with:
-          base: HEAD
-          filters: |
-            cv:
-              - '*_CV.tex'
-              - 'README.md'
       - name: Push the changes
         if: steps.changes.outputs.cv == 'true'
         run: |
