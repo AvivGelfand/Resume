@@ -1,8 +1,8 @@
 cv:
   name: Aviv Gelfand
-  location: Israel
   email: avivgelfand@gmail.com
-  phone: 
+  location: Israel
+  phone: 0543007257
   social_networks:
     - network: LinkedIn
       username: aviv-gelfand
@@ -16,7 +16,6 @@ cv:
     experience:
       - company: The Hebrew University of Jerusalem
         position: NLP Data Scientist / Research Assistant
-        location: Israel
         start_date: 2023-10
         end_date: 
         highlights:
@@ -34,10 +33,10 @@ cv:
         start_date: 2022-10
         end_date: 
         highlights:
-          - Built and taught dozens of machine-learning projects in the companys course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
+          "- Built and taught dozens of machine-learning projects in the company's course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer."
           - Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests & XGBoost), clustering with K-means, and DBSCAN.
-          - Promoted to be a lecturer in the course after 3 successful semesters of weekly TA sessions with a significant presence of students.
-          - Advanced from teaching assistant to instructor, then to a partner role.
+          - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
+      
       - company: The Hebrew University of Jerusalem
         position: Research & Development Assistant
         location: Israel
@@ -45,7 +44,7 @@ cv:
         end_date: 2023-03
         highlights:
           - Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
-          - Designed and analyzed online surveys; conducted literature reviews and academic peer reviews.
+          - Designed and analyzed online surveys; conducted literature and academic peer reviews.
           - Web-scraped data monthly.
       - company: Israel Defense Forces
         position: Data Analyst & Research Team Leader
