@@ -100,15 +100,6 @@ cv:
         details: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
       - label: Other Skills
         details: Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
-    languages:
-      - language: Arabic
-        fluency: Full Professional
-      - language: English
-        fluency: Professional Working
-      - language: Hebrew
-        fluency: Native Speaker
-      - language: Russian
-        fluency: Full Professional
 design:
   theme: classic
   font: Source Sans 3
