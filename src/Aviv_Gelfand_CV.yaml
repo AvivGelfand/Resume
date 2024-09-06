@@ -1,7 +1,7 @@
 cv:
   name: Aviv Gelfand
   email: avivgelfand@gmail.com
-  location: Israel
+  location: Jerusalem, Israel
   phone: 0543007257
   social_networks:
     - network: LinkedIn
@@ -29,7 +29,6 @@ cv:
           - Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.
       - company: Upscale Analytics
         position: Statistics & Machine Learning Teaching Assistant
-        location: Israel
         start_date: 2022-10
         end_date: 
         highlights:
@@ -39,7 +38,6 @@ cv:
       
       - company: The Hebrew University of Jerusalem
         position: Research & Development Assistant
-        location: Israel
         start_date: 2022-04
         end_date: 2023-03
         highlights:
@@ -48,7 +46,6 @@ cv:
           - Web-scraped data monthly.
       - company: Israel Defense Forces
         position: Data Analyst & Research Team Leader
-        location: Tel Aviv, Israel
         start_date: 2018-12
         end_date: 2020-12
         highlights:
