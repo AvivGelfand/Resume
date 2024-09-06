@@ -55,15 +55,15 @@ cv:
     education:
       - institution: The Hebrew University of Jerusalem
         area: Statistics & Data Science
-        degree: Bachelor of Science - BS
+        degree: BSc
         start_date: 2021-12
-        end_date: 2024-12
+        end_date: 2024-08
         highlights:
           - 'GPA: 89'
           - 'Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms'
       - institution: The Hebrew University of Jerusalem
         area: Statistics
-        degree: Master of Science - MS
+        degree: MSc
         start_date: 2023-09
         end_date: 2026-07
         highlights:
