@@ -24,7 +24,7 @@ cv:
           - Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.
           - Corrected errors in the labeled data.
           - Reached over .90 accuracy and over .80 F1 scores in most target labels, over 20% improvement from the initial benchmark.
-          - Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning.
+          - "Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning."
           - Acquired all relevant knowledge in PyTorch and LLMs with nothing but a laptop and the Internet.
           - Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.
       - company: Upscale Analytics
