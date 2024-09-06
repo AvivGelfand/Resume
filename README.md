@@ -10,17 +10,11 @@
 
 # Summary
 
-As a third-year BSc / first-year MSc student in Statistics and Data Science at The Hebrew University of Jerusalem, I possess an intense intellectual curiosity. My passion for learning has driven me to develop technical expertise in Python, machine learning, deep learning, and big data processing.
+3rd year BSc (GPA 89) / 1st year MSc in Statistics and Data Science with thesis at HUJI.
 
-However, what I find most fulfilling is sharing my knowledge and fostering understanding. Whether as a teaching assistant, instructor or through team collaboration and brainstorming with colleagues, I strive to break down complex topics and facilitate a better grasp of intricate concepts.
+Seeking an 80%-100% position as a Data Scientist / ML/AI Engineer / Researcher / SW Dev.
 
-My interdisciplinary perspective, which combines a mathematical and statistical background with programming proficiency and some marketing experience, allows me to tackle problems with scientific rigor, attention to detail, and a methodical mindset. Drawing insights from diverse fields, I approach challenges from multiple angles.
-
-As I pursue cutting-edge research in Data Science and AI, I desire to contribute to advancing knowledge in these fields and ensure that it is applied responsibly for the betterment of humanity. I am eager to join an innovative organization where I can continue to learn, share my knowledge, and make a meaningful impact while leveraging my interdisciplinary mindset and commitment to scientific rigor.
-
-In addition to my on-campus learning, I am independently gaining experience and knowledge in ML, DL, Gen AI, and automation through various research roles and freelance projects.
-
-I am all ears if you have an exciting data science project or a role for me!
+Solid experience in SW / AI student positions and projects, with independent learning and teamwork.
 
 # Experience
 
