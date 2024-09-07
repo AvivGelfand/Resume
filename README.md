@@ -50,19 +50,13 @@
 
 # Education
 
-## The Hebrew University of Jerusalem, BSc in Statistics & Data Science
-
-- Dec 2021 – Aug 2024
-- GPA: 89
-- Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms
-
 ## The Hebrew University of Jerusalem, MSc in Statistics
 
-- Sept 2023 – July 2026
-- Coursework: Signal Processing, Geometry of Data
+- Oct 2023 – July 2026
+- Thesis on Dimensionality Reduction of Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
 
-# Technologies
+## The Hebrew University of Jerusalem, BSc in Statistics & Data Science
 
-- Programming Languages & Tools: Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, PyTorch, Git
-- Machine Learning & Data Science: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
-- Other Skills: Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
+- Oct 2021 – Aug 2024
+- GPA: 89 ; Finished 33% of the required courses for master's degree while working in several roles.
+
