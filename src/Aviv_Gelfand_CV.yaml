@@ -57,15 +57,15 @@ cv:
         start_date: 2023-10
         end_date: 2026-07
         highlights:
-          - Thesis on Dimensionality Reduction of Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
+          - 'Thesis on Dimensionality Reduction of Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.'
       - institution: The Hebrew University of Jerusalem
         area: Statistics & Data Science
         degree: BSc
         start_date: 2021-10
         end_date: 2024-08
         highlights:
-          - GPA: 89/100
-          - Finished 33% of the required courses for master's degree while working in several roles.
+          - 'GPA: 89/100'
+          - 'Finished 33% of the required courses for master's degree while working in several roles.'
     projects:
       - name: Fine Tuning Large Language Models
         date: '2023-09 to 2024-04'
