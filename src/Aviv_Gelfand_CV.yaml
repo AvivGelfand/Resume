@@ -59,13 +59,13 @@ cv:
         highlights:
           - 'GPA: 89'
           - 'Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms'
-    #   - institution: The Hebrew University of Jerusalem
-    #     area: Statistics
-    #     degree: MSc
-    #     start_date: 2023-09
-    #     end_date: 2026-07
-    #     highlights:
-    #       - 'Coursework: Signal Processing, Geometry of Data'
+      - institution: The Hebrew University of Jerusalem
+        area: Statistics
+        degree: MSc
+        start_date: 2023-09
+        end_date: 2026-07
+        highlights:
+          - 'Coursework: Signal Processing, Geometry of Data'
     # projects:
     #   - name: Fine Tuning Large Language Models
     #     date: '2023-09 to 2024-04'
@@ -84,13 +84,13 @@ cv:
     #     date: '2024-05 to 2024-06'
     #     highlights:
     #       - A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
-    # technologies:
-    #   - label: Programming Languages & Tools
-    #     details: Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, PyTorch, Git
-    #   - label: Machine Learning & Data Science
-    #     details: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
-    #   - label: Other Skills
-    #     details: Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
+    technologies:
+      - label: Programming Languages & Tools
+        details: Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, PyTorch, Git
+      - label: Machine Learning & Data Science
+        details: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
+      - label: Other Skills
+        details: Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
 
 design:
   theme: sb2nov
