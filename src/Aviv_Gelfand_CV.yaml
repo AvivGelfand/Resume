@@ -19,7 +19,7 @@ cv:
         start_date: 2023-10
         end_date: 2024-05
         highlights:
-          - 'GPA: 3.9/4.0 ([a link to somewhere](https://example.com))'
+          # - 'GPA: 3.9/4.0 ([a link to somewhere](https://example.com))'
           - Successfully executed a Supervised-Fine-Tuning training of large language models to classify defendant arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging. 
           # - Drove strategic alignment by delivering situational analyses and action plans to US-based stakeholders, [effectively prioritizing objectives](https://docs.google.com/spreadsheets/d/1uaPqIVpnyhM14W7Rt5BT14hfQOLjpTcVgMVK71eRwtE/edit?usp=sharing) and focusing efforts to meet deadlines.
           - Dealt with significant imbalance using embedded cluster stratified sampling methods. Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling.
