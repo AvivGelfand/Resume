@@ -56,7 +56,7 @@
 - Oct 2021 – Aug 2024
 - GPA: 89 ; Also completed 33% of the required courses for master's degree while working in several roles.
 
-# Technologies
+# Skills and Technologies
 
 - Scripting Languages and tools: Python, Java, Solidity (C++ based), R, SQL, JS
 - Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, groq, etc), Selenium, Beautiful soup
