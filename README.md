@@ -67,7 +67,7 @@
 - NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
 - CI/CD: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
 - Big Data Frameworks: Big Query, Data-Bricks, Apache Spark
-# Selected Projects
+# Projects
 
 ## Fine Tuning Large Language Models
 
@@ -76,7 +76,12 @@
 
 ## De Grandmizer Shtick! GenAI Hackathon
 
-- May 2023
+- [](https://github.com/sinaatalay/rendercv)
 - De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
 - The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
+
+## Driver Behavior Detection Using Smartphone Signals
+
+- May 2024
+- A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
 
