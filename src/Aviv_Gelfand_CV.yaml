@@ -1,5 +1,5 @@
 cv:
-  name: "Aviv Gelfand"
+  name: 'Aviv Gelfand'
   email: avivgelfand@gmail.com
   location: Jerusalem, Israel
   phone: tel:+972543007257
@@ -15,7 +15,7 @@ cv:
       - 'Demonstrated success in AI and software development through academic/private projects and roles, with a track record of implementing machine learning models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and accurate models.'
    experience:
       - company: The Hebrew University of Jerusalem
-        position: "NLP Data Scientist / Research Assistant"
+        position: 'NLP Data Scientist / Research Assistant'
         start_date: 2023-10
         end_date: 2024-05
         highlights:
