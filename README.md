@@ -60,3 +60,14 @@
 - Oct 2021 – Aug 2024
 - GPA: 89 ; Finished 33% of the required courses for master's degree while working in several roles.
 
+# Technologies
+
+- Scripting Languages and tools: Python, Java, Solidity (C++ based), R, SQL, JS
+- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (openai, groq, etc), Selenium, Beautiful soup
+- GenAI: Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, Langtalks fan
+- EDA: Basic and complex Visualizations, Advanced Statistical Inference
+- ETL: Cleaning, Encoding / Embedding, Imputing
+- ML: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics
+- NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
+- CI/CD: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
+- Big Data Frameworks: Big Query, Data-Bricks, Apache Spark
