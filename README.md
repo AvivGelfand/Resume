@@ -71,12 +71,12 @@
 
 ## Fine Tuning Large Language Models
 
-- 2023-09 to 2024-04
+- [GitHub Repo](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models)
 - This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.
 
 ## De Grandmizer Shtick! GenAI Hackathon
 
-- [github.com/AvivGelfand/Fine-tuning-Large-Language-Models](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models)
+- [GitHub Repo](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23)
 - De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
 - The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
 
