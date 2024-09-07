@@ -83,5 +83,5 @@
 ## Driver Behavior Detection Using Smartphone Signals
 
 - [GitHub Repo](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals)
-- A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
+- A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets.
 
