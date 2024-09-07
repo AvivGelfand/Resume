@@ -16,6 +16,13 @@
 - Demonstrated success in AI and software development through academic/private projects and roles, with a track record of implementing machine learning models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and accurate models.
 # Experience
 
+## The Hebrew University of Jerusalem, NLP Data Scientist / Research Assistant
+
+- Oct 2023 – May 2024
+- Successfully executed a Supervised-Fine-Tuning training of large language models to classify defendant arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
+- Dealt with significant imbalance using embedded cluster stratified sampling methods. Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling.
+- Acquired all relevant knowledge in PyTorch and LLMs through fully independent learning, unguided.
+
 ## Upscale Analytics, Statistics & Machine Learning Instructor
 
 - Oct 2022 – Sept 2023
