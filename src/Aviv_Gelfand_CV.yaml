@@ -66,25 +66,25 @@ cv:
         highlights:
           - 'GPA: 89/100 ; Finished 33% of the required courses for master's degree while working in several roles.'
    
-    technologies:
-      - label: Scripting Languages and tools
-        details: Python, Java, Solidity (C++ based), R, SQL, JS
-      - label: Programming Libraries
-        details: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (openai, groq, etc), Selenium, Beautiful soup
-      - label: GenAI
-        details: Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, Langtalks fan
-      - label: EDA
-        details: Basic and complex Visualizations, Advanced Statistical Inference
-      - label: ETL
-        details: Cleaning, Encoding / Embedding, Imputing
-      - label: ML
-        details: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics, 'Explainability' fan
-      - label: NLP
-        details: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
-      - label: CI/CD
-        details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
-      - label: Big Data Frameworks
-        details: Big Query, Data-Bricks, Apache Spark
+    # technologies:
+    #   - label: Scripting Languages and tools
+    #     details: Python, Java, Solidity (C++ based), R, SQL, JS
+    #   - label: Programming Libraries
+    #     details: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (openai, groq, etc), Selenium, Beautiful soup
+    #   - label: GenAI
+    #     details: Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, Langtalks fan
+    #   - label: EDA
+    #     details: Basic and complex Visualizations, Advanced Statistical Inference
+    #   - label: ETL
+    #     details: Cleaning, Encoding / Embedding, Imputing
+    #   - label: ML
+    #     details: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics, 'Explainability' fan
+    #   - label: NLP
+    #     details: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
+    #   - label: CI/CD
+    #     details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
+    #   - label: Big Data Frameworks
+    #     details: Big Query, Data-Bricks, Apache Spark
 design:
   theme: sb2nov
   font: Latin Modern Serif
