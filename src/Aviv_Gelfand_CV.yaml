@@ -81,7 +81,7 @@ cv:
         details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
       - label: Big Data Frameworks
         details: Big Query, Data-Bricks, Apache Spark
-    projects:
+    selected projects:
       - name: Fine Tuning Large Language Models
         date: '2023-09 to 2024-04'
         highlights:
