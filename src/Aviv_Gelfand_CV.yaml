@@ -81,7 +81,7 @@ cv:
         details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
       - label: Big Data Frameworks
         details: Big Query, Data-Bricks, Apache Spark
-    projects:
+    notable projects:
       - name: Fine Tuning Large Language Models
         date: '[GitHub Repo](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models)'
         highlights:
