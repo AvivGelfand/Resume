@@ -13,3 +13,5 @@
 
 Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; available for 80%-100% time role as a Data Scientist / ML or AI Researcher / Engineer / SW Dev.
 
+1st year MSc candidate in Data Science (HUJI); Thesis: Dimensionality reduction of Deep Learning problem space through statistical methods. BSc in Statistics and Data Science (HUJI; GPA 89)
+
