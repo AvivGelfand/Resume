@@ -10,7 +10,7 @@
     footskip=1.0 cm, % seperation between body and footer
     % showframe % for debugging 
 ]{geometry} % for adjusting page geometry
-\usepackage[explicit]{titlesec} % for customizing section titles
+\usepackage{titlesec} % for customizing section titles
 \usepackage{tabularx} % for making tables with fixed width columns
 \usepackage{array} % tabularx requires this
 \usepackage[dvipsnames]{xcolor} % for coloring text
@@ -39,12 +39,12 @@
 \ifPDFTeX
     \input{glyphtounicode}
     \pdfgentounicode=1
-    \usepackage[T1]{fontenc}
+    % \usepackage[T1]{fontenc} % this breaks sb2nov
     \usepackage[utf8]{inputenc}
     \usepackage{lmodern}
 \fi
 
-\usepackage[default, type1]{sourcesanspro} 
+
 
 % Some settings:
 \AtBeginEnvironment{adjustwidth}{\partopsep0pt} % remove space before adjustwidth environment
@@ -52,7 +52,7 @@
 \setcounter{secnumdepth}{0} % no section numbering
 \setlength{\parindent}{0pt} % no indentation
 \setlength{\topskip}{0pt} % no top skip
-\setlength{\columnsep}{0.15cm} % set column seperation
+\setlength{\columnsep}{0cm} % set column seperation
 \makeatletter
 \let\ps@customFooterStyle\ps@plain % Copy the plain style to customFooterStyle
 \patchcmd{\ps@customFooterStyle}{\thepage}{
@@ -61,18 +61,7 @@
 \makeatother
 \pagestyle{customFooterStyle}
 
-\titleformat{\section}{
-    % avoid page braking right after the section title
-    \needspace{4\baselineskip}
-    % make the font size of the section title large and color it with the primary color
-    \Large\color{primaryColor}
-}{
-}{
-}{
-    % print bold title, give 0.15 cm space and draw a line of 0.8 pt thickness
-    % from the end of the title to the end of the body
-    \textbf{#1}\hspace{0.15cm}\titlerule[0.8pt]\hspace{-0.1cm}
-}[] % section title formatting
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
 
 \titlespacing{\section}{
     % left space:
@@ -85,7 +74,7 @@
     0.2 cm
 } % section title spacing
 
-% \renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$} % custom bullet points
+\renewcommand\labelitemi{$\circ$} % custom bullet points
 \newenvironment{highlights}{
     \begin{itemize}[
         topsep=0.10 cm,
@@ -132,20 +121,8 @@
     \endonecolentry
 } % new environment for two column entries
 
-\newenvironment{threecolentry}[3][]{
-    \onecolentry
-    \def\thirdColumn{#3}
-    \setcolumnwidth{1 cm, \fill, 4.5 cm}
-    \begin{paracol}{3}
-    {\raggedright #2} \switchcolumn
-}{
-    \switchcolumn \raggedleft \thirdColumn
-    \end{paracol}
-    \endonecolentry
-} % new environment for three column entries
-
 \newenvironment{header}{
-    \setlength{\topsep}{0pt}\par\kern\topsep\centering\color{primaryColor}\linespread{1.5}
+    \setlength{\topsep}{0pt}\par\kern\topsep\centering\linespread{1.5}
 }{
     \par\kern\topsep
 } % new environment for the header
@@ -178,29 +155,28 @@
 
     \placelastupdatedtext
     \begin{header}
-        \fontsize{30 pt}{30 pt}
-        \textbf{Aviv Gelfand}
+        \textbf{\fontsize{24 pt}{24 pt}\selectfont Aviv Gelfand}
 
         \vspace{0.3 cm}
 
         \normalsize
-        \mbox{{\footnotesize\faMapMarker*}\hspace*{0.13cm}Jerusalem, Israel}%
+        \mbox{{\color{black}\footnotesize\faMapMarker*}\hspace*{0.13cm}Jerusalem, Israel}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{mailto:avivgelfand@gmail.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}avivgelfand@gmail.com}}%
+        \mbox{\hrefWithoutArrow{mailto:avivgelfand@gmail.com}{\color{black}{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}avivgelfand@gmail.com}}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{tel:+972-54-300-7257}{{\footnotesize\faPhone*}\hspace*{0.13cm}054-300-7257}}%
+        \mbox{\hrefWithoutArrow{tel:+972-54-300-7257}{\color{black}{\footnotesize\faPhone*}\hspace*{0.13cm}054-300-7257}}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://linkedin.com/in/aviv-gelfand}{{\footnotesize\faLinkedinIn}\hspace*{0.13cm}aviv-gelfand}}%
+        \mbox{\hrefWithoutArrow{https://linkedin.com/in/aviv-gelfand}{\color{black}{\footnotesize\faLinkedinIn}\hspace*{0.13cm}aviv-gelfand}}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{https://github.com/AvivGelfand}{{\footnotesize\faGithub}\hspace*{0.13cm}AvivGelfand}}%
+        \mbox{\hrefWithoutArrow{https://github.com/AvivGelfand}{\color{black}{\footnotesize\faGithub}\hspace*{0.13cm}AvivGelfand}}%
     \end{header}
 
     \vspace{0.3 cm - 0.3 cm}
@@ -212,198 +188,7 @@
 
         
         \begin{onecolentry}
-            3rd year BSc (GPA 89) / 1st year MSc in Statistics and Data Science with thesis at HUJI.
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            Seeking an 80\%-100\% position as a Data Scientist / ML/AI Engineer / Researcher / SW Dev.
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            Solid experience in SW / AI student positions and projects, with independent learning and teamwork.
-        \end{onecolentry}
-
-
-    
-    \section{Experience}
-
-
-
-        
-        \begin{twocolentry}{
-            Oct 2023 – present
-
-        11 months
-        }
-            \textbf{The Hebrew University of Jerusalem}, NLP Data Scientist / Research Assistant
-            \begin{highlights}
-                \item Fine-tuned (SFT) Large Language models for a US-Israeli statistical legal research team, classified arguments in trial records.
-                \item Applied LORA, PEFT, text cleaning, and statistical methods.
-                \item Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.
-                \item Corrected errors in the labeled data.
-                \item Reached over .90 accuracy and over .80 F1 scores in most target labels, over 20\% improvement from the initial benchmark.
-                \item Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning.
-                \item Acquired all relevant knowledge in PyTorch and LLMs with nothing but a laptop and the Internet.
-                \item Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            Oct 2022 – present
-
-        1 year 11 months
-        }
-            \textbf{Upscale Analytics}, Statistics \& Machine Learning Teaching Assistant
-            \begin{highlights}
-                \item Built and taught dozens of machine-learning projects in the company's course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
-                \item Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests \& XGBoost), clustering with K-means, and DBSCAN.
-                \item Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            Apr 2022 – Mar 2023
-
-        11 months
-        }
-            \textbf{The Hebrew University of Jerusalem}, Research \& Development Assistant
-            \begin{highlights}
-                \item Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
-                \item Designed and analyzed online surveys; conducted literature and academic peer reviews.
-                \item Web-scraped data monthly.
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            Dec 2018 – Dec 2020
-
-        2 years 1 month
-        }
-            \textbf{Israel Defense Forces}, Data Analyst \& Research Team Leader
-            \begin{highlights}
-                \item Conducted economic research, assessments, and analytics for high-ranked decision-makers.
-                \item Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
-                \item Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
-            \end{highlights}
-        \end{twocolentry}
-
-
-
-    
-    \section{Education}
-
-
-
-        
-        \begin{threecolentry}{\textbf{BSc}}{
-            Dec 2021 – Aug 2024
-        }
-            \textbf{The Hebrew University of Jerusalem}, Statistics \& Data Science
-            \begin{highlights}
-                \item GPA: 89
-                \item Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms
-            \end{highlights}
-        \end{threecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{threecolentry}{\textbf{MSc}}{
-            Sept 2023 – July 2026
-        }
-            \textbf{The Hebrew University of Jerusalem}, Statistics
-            \begin{highlights}
-                \item Coursework: Signal Processing, Geometry of Data
-            \end{highlights}
-        \end{threecolentry}
-
-
-    
-    \section{Projects}
-
-
-
-        
-        \begin{twocolentry}{
-            2023-09 to 2024-04
-        }
-            \textbf{Fine Tuning Large Language Models}
-            \begin{highlights}
-                \item This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            May 2023
-        }
-            \textbf{De Grandmizer Shtick! GenAI Hackathon}
-            \begin{highlights}
-                \item De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
-                \item The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            Apr 2023
-        }
-            \textbf{Alfred - a Personal Moodle Bot}
-            \begin{highlights}
-                \item Alfred is a Python-based bot Scraping \& Messaging bot that scrapes The Hebrew University of Jerusalem's Moodle and sends a message through Telegram about any new update or upload in upcoming deadlines for assignments.
-            \end{highlights}
-        \end{twocolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            2024-05 to 2024-06
-        }
-            \textbf{Driver Behavior Detection Using Smartphone Signals}
-            \begin{highlights}
-                \item A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
-            \end{highlights}
-        \end{twocolentry}
-
-
-
-    
-    \section{Technologies}
-
-
-
-        
-        \begin{onecolentry}
-            \textbf{Programming Languages \& Tools:} Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, PyTorch, Git
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            \textbf{Machine Learning \& Data Science:} Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            \textbf{Other Skills:} Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
+            Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; available for 80\%-100\% time role as a Data Scientist / ML or AI Researcher / Engineer / SW Dev.
         \end{onecolentry}
 
 
