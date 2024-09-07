@@ -113,7 +113,7 @@ design:
   margins:
     page:
       top: 1 cm
-      bottom: 1 cm
+      bottom: 0.8 cm
       left: 2 cm
       right: 2 cm
     section_title:
