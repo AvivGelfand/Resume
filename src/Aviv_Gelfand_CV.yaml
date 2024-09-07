@@ -65,24 +65,7 @@ cv:
         end_date: 2024-08
         highlights:
           - 'GPA: 89/100 ; Finished 33% of the required courses for master's degree while working in several roles.'
-     projects:
-      - name: Fine Tuning Large Language Models
-        date: '2023-09 to 2024-04'
-        highlights:
-          - This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.
-      - name: "De Grandmizer Shtick! GenAI Hackathon"
-        date: '2023-05'
-        highlights:
-          - De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
-          - The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
-      # - name: "Alfred - a Personal Moodle Bot"
-        # date: '2023-04'
-    #     highlights:
-    #       - Alfred is a Python-based bot Scraping & Messaging bot that scrapes The Hebrew University of Jerusalem's Moodle and sends a message through Telegram about any new update or upload in upcoming deadlines for assignments.
-      - name: "Driver Behavior Detection Using Smartphone Signals"
-        date: '2024-05'
-        highlights:
-          - A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
+   
     technologies:
       - label: Scripting Languages and tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
