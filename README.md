@@ -20,10 +20,10 @@
 
 - Oct 2023 – May 2024
 - Successfully executed a Supervised-Fine-Tuning training of large language models to classify defendant arguments in trials for a broader statistical legal research project.
-- Drove strategic alignment by delivering situational analyses and action plans to US-based stakeholders.
+- Drove strategic alignment by delivering situational analyses and action plans to US-based stakeholders, [effectively prioritizing objectives](https://docs.google.com/spreadsheets/d/1uaPqIVpnyhM14W7Rt5BT14hfQOLjpTcVgMVK71eRwtE/edit?usp=sharing) and focusing efforts to meet deadlines.
 - Dealt with significant imbalance using embedded cluster stratified sampling methods.
 - Acquired all relevant knowledge in PyTorch and LLMs through fully independent learning, unguided.
-- Presented findings at a prominent statistics and data science conference in May 2024.
+- [Presented findings](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models) at a prominent statistics and data science conference in May 2024.
 
 ## Upscale Analytics, Statistics & Machine Learning Teaching Assistant
 
