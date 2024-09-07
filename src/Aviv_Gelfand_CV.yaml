@@ -50,7 +50,7 @@ cv:
           - Conducted economic research, assessments, and analytics for high-ranked decision-makers.
           - Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
           - Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
-     education:
+    education:
       - institution: The Hebrew University of Jerusalem
         area: Statistics
         degree: MSc
@@ -66,7 +66,7 @@ cv:
         highlights:
           - GPA: 89/100
           - Finished 33% of the required courses for master's degree while working in several roles.
-     projects:
+    projects:
       - name: Fine Tuning Large Language Models
         date: '2023-09 to 2024-04'
         highlights:
@@ -84,7 +84,25 @@ cv:
         date: '2024-05'
         highlights:
           - A Digital Signal Processing journey to an application for detecting and reporting aggressive bus driver behaviors.
-
+    technologies:
+      - label: Scripting Languages and tools
+        details: Python, Java, Solidity (C++ based), R, SQL, JS
+      - label: Programming Libraries
+        details: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (openai, groq, etc), Selenium, Beautiful soup
+      - label: GenAI
+        details: Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, Langtalks fan
+      - label: EDA
+        details: Basic and complex Visualizations, Advanced Statistical Inference
+      - label: ETL
+        details: Cleaning, Encoding / Embedding, Imputing
+      - label: ML
+        details: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics, 'Explainability' fan
+      - label: NLP
+        details: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
+      - label: CI/CD
+        details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
+      - label: Big Data Frameworks
+        details: Big Query, Data-Bricks, Apache Spark
 design:
   theme: sb2nov
   font: Latin Modern Serif
