@@ -1,5 +1,5 @@
 cv:
-  'name': 'Aviv Gelfand'
+  name: Aviv Gelfand
   email: avivgelfand@gmail.com
   location: Jerusalem, Israel
   phone: tel:+972543007257
@@ -93,6 +93,7 @@ cv:
         details: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM), Transformers, Statistical Inference, Predictive Modeling, Data Analytics, Data Cleaning, Data Wrangling, EDA, Big Data Analytics
       - label: Other Skills
         details: Problem Solving, Analytical Skills, Communication, Teamwork, Self Learning, Independent Thinking
+
 design:
   theme: sb2nov
   font: Latin Modern Serif
