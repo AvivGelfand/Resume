@@ -91,10 +91,6 @@ cv:
         highlights:
           - De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
           - The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
-      # - name: "Alfred - a Personal Moodle Bot"
-        # date: '2023-04'
-        # highlights:
-    #       - Alfred is a Python-based bot Scraping & Messaging bot that scrapes The Hebrew University of Jerusalem's Moodle and sends a message through Telegram about any new update or upload in upcoming deadlines for assignments.
       - name: "Driver Behavior Detection Using Smartphone Signals"
         date: '[GitHub Repo](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals)'
         highlights:
