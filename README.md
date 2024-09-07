@@ -16,6 +16,13 @@
 - Demonstrated success in AI and software development through academic/private projects and roles, with a track record of implementing machine learning models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and accurate models.
 # Experience
 
+## Upscale Analytics, Statistics & Machine Learning Instructor
+
+- Oct 2022 – Sept 2023
+- Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
+- Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods.
+- Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
+
 ## The Hebrew University of Jerusalem, Research & Development Assistant
 
 - Apr 2022 – Mar 2023
