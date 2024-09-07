@@ -30,23 +30,22 @@ cv:
         end_date: 2023-09
         highlights:
           - "Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer."
-          - Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests & XGBoost), clustering with K-means, and DBSCAN.
+          - Instructed data analysts through their first steps in statistical inference and classic machine learning: linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods. 
           - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
       - company: The Hebrew University of Jerusalem
         position: "Research & Development Assistant"
         start_date: 2022-04
         end_date: 2023-03
         highlights:
-          - Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
+          - Self-taught and programmed smart contracts with a C++-based programming language; developed simulations interface using react.js.
           - Designed and analyzed online surveys; conducted literature and academic peer reviews. Web-scraped data monthly.
       - company: Israel Defense Forces
         position: "Data Analyst & Research Team Leader"
         start_date: 2018-12
         end_date: 2020-12
         highlights:
-          - Conducted economic research, assessments, and analytics for high-ranked decision-makers.
-          - Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
-          - Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
+          - Conducted research, assessments, and analytics for high-ranked decision-makers. Triplicated, updated, and maintained strategic databases while collaborating with programmers and economists. 
+          - Led cross-organizational projects resulting in several two in-depth research papers with an unprecedented scale of collaboration between two research branches.
     education:
       - institution: The Hebrew University of Jerusalem
         area: Statistics
@@ -54,22 +53,22 @@ cv:
         start_date: 2023-10
         end_date: 2026-07
         highlights:
-          - 'Thesis on Dimensionality Reduction of Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.'
+          - 'Thesis on Dimensionality Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.'
       - institution: The Hebrew University of Jerusalem
         area: Statistics & Data Science
         degree: BSc
         start_date: 2021-10
         end_date: 2024-08
         highlights:
-          - "GPA: 89 ; Finished 33% of the required courses for master's degree while working in several roles."
+          - "GPA: 89 ; Completed 33% of the required courses for master's degree while working in several roles."
    
     technologies:
       - label: Scripting Languages and tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
       - label: Programming Libraries
-        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (openai, groq, etc), Selenium, Beautiful soup"
+        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, groq, etc), Selenium, Beautiful soup"
       - label: GenAI
-        details: Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, Langtalks fan
+        details: "Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, 'Langtalks' fan"
       - label: EDA
         details: Basic and complex Visualizations, Advanced Statistical Inference
       - label: ETL
