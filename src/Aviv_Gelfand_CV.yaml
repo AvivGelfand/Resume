@@ -20,47 +20,45 @@ cv:
         end_date: 2024-05
         highlights:
           - Fine-tuned (SFT) Large Language models for a US-Israeli statistical legal research team, classified arguments in trial records.
-  #         - Applied LORA, PEFT, text cleaning, and statistical methods.
-  #         - Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.
-  #         - Corrected errors in the labeled data.
-  #         - Reached over .90 accuracy and over .80 F1 scores in most target labels, over 20% improvement from the initial benchmark.
-  #         - "Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning."
-  #         - Acquired all relevant knowledge in PyTorch and LLMs with nothing but a laptop and the Internet.
-  #         - Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.
-  #     - company: Upscale Analytics
-  #       position: Statistics & Machine Learning Teaching Assistant
-  #       start_date: 2022-10
-  #       end_date: 
-  #       highlights:
-  #         - "Built and taught dozens of machine-learning projects in the company's course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer."
-  #         - Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests & XGBoost), clustering with K-means, and DBSCAN.
-  #         - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
-      
-  #     - company: The Hebrew University of Jerusalem
-  #       position: "Research & Development Assistant"
-  #       start_date: 2022-04
-  #       end_date: 2023-03
-  #       highlights:
-  #         - Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
-  #         - Designed and analyzed online surveys; conducted literature and academic peer reviews.
-  #         - Web-scraped data monthly.
-  #     - company: Israel Defense Forces
-  #       position: "Data Analyst & Research Team Leader"
-  #       start_date: 2018-12
-  #       end_date: 2020-12
-  #       highlights:
-  #         - Conducted economic research, assessments, and analytics for high-ranked decision-makers.
-  #         - Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
-  #         - Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
-    # education:
-    #   - institution: The Hebrew University of Jerusalem
-    #     area: "Statistics & Data Science"
-    #     degree: BSc
-    #     start_date: 2021-12
-    #     end_date: 2024-08
-    #     highlights:
-    #       - 'GPA: 89'
-    #       - 'Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms'
+          - Applied LORA, PEFT, text cleaning, and statistical methods.
+          - Dealt with the significant imbalance and noisy labels and features, using embedded cluster stratified sampling methods and an iterative active learning approach.
+          - Corrected errors in the labeled data.
+          - Reached over .90 accuracy and over .80 F1 scores in most target labels, over 20% improvement from the initial benchmark.
+          - "Utilized the university's Cluster resources (with Linux) to fine-tune open-source foundational models with PyTorch Lightning."
+          - Acquired all relevant knowledge in PyTorch and LLMs with nothing but a laptop and the Internet.
+          - Presented my work at the annual Israel Statistics and Data Science Association conference in May 2024.
+      - company: Upscale Analytics
+        position: Statistics & Machine Learning Teaching Assistant
+        start_date: 2022-10
+        end_date: 2023-09
+        highlights:
+          - "Built and taught dozens of machine-learning projects in the company's course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer."
+          - Instructed data analysts through their first steps in Statistical Inference and Classic Machine learning linear and logistic regressions, ensemble learners (random forests & XGBoost), clustering with K-means, and DBSCAN.
+          - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
+      - company: The Hebrew University of Jerusalem
+        position: "Research & Development Assistant"
+        start_date: 2022-04
+        end_date: 2023-03
+        highlights:
+          - Self-taught and programmed Smart Contracts with a C++-based programming language; developed simulations interface using react.js.
+          - Designed and analyzed online surveys; conducted literature and academic peer reviews. Web-scraped data monthly.
+      - company: Israel Defense Forces
+        position: "Data Analyst & Research Team Leader"
+        start_date: 2018-12
+        end_date: 2020-12
+        highlights:
+          - Conducted economic research, assessments, and analytics for high-ranked decision-makers.
+          - Led a joint project with a programming team for an economics dashboard app for a Major General (Aluf).
+          - Created, updated, and maintained databases of macro-economical data via Microsoft Excel.
+    education:
+      - institution: The Hebrew University of Jerusalem
+        area: "Statistics & Data Science"
+        degree: BSc
+        start_date: 2021-12
+        end_date: 2024-08
+        highlights:
+          - 'GPA: 89'
+          - 'Coursework: Human Language from a Computational Perspective (NLP), Linear Algebra for Statisticians, Statistical Inference and Its Applications, Modern Statistical Data Analysis, Regression and Statistical Models, Intro to Machine Learning, Big Data Mining, Data Structures and Algorithms'
     #   - institution: The Hebrew University of Jerusalem
     #     area: Statistics
     #     degree: MSc
