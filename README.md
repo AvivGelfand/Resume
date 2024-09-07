@@ -67,7 +67,7 @@
 - NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
 - CI/CD: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
 - Big Data Frameworks: Big Query, Data-Bricks, Apache Spark
-# Projects
+# Notable Projects
 
 ## Fine Tuning Large Language Models
 
