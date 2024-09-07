@@ -67,3 +67,16 @@
 - NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
 - CI/CD: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
 - Big Data Frameworks: Big Query, Data-Bricks, Apache Spark
+# Projects
+
+## Fine Tuning Large Language Models
+
+- 2023-09 to 2024-04
+- This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.
+
+## De Grandmizer Shtick! GenAI Hackathon
+
+- May 2023
+- De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
+- The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
+
