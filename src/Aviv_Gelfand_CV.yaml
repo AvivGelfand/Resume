@@ -62,7 +62,7 @@ cv:
         highlights:
           - "GPA: 89 ; Also completed 33% of the required courses for master's degree while working in several roles."
    
-    technologies:
+    Skills and Technologies:
       - label: Scripting Languages and tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
       - label: Programming Libraries
