@@ -96,7 +96,7 @@ cv:
         highlights:
           -  A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets.
       - name: "Alfred - University Tasks Personal Asistant"
-        date: '[GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot/)'
+        date: '[GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)'
         highlights:
           -  A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
           
