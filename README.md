@@ -85,3 +85,8 @@
 - [GitHub Repo](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals)
 - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets.
 
+## Alfred - University Tasks Personal Asistant
+
+- [GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)
+- A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
+
