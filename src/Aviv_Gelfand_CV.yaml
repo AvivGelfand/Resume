@@ -101,8 +101,6 @@ cv:
           -  A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
       - name: "For over 20 more projects check out my GitHub profile"
         date: '[GitHub Repo](https://github.com/AvivGelfand)'
-        highlights:
-          -   
           
 design:
   theme: sb2nov
