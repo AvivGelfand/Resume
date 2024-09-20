@@ -106,13 +106,13 @@ design:
   use_icons_for_connections: true
   margins:
     page:
-      top: 1 cm
+      top: 0.9 cm
       bottom: 0.5 cm
-      left: 1 cm
-      right: 1 cm
+      left: 0.9 cm
+      right: 0.9 cm
     section_title:
-      top: 0.5 cm
-      bottom: 0.5 cm
+      top: 0.25 cm
+      bottom: 0.25 cm
     entry_area:
       left_and_right: 0.15 cm
       vertical_between: 0.15 cm
