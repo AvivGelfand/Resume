@@ -62,7 +62,7 @@ cv:
       - label: Scripting Languages and tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
       - label: Programming Libraries
-        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc), Selenium, Beautiful Soup"
+        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more"
       - label: GenAI Tools
         details: "Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan"
       - label: EDA & ETL
