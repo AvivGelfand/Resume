@@ -58,9 +58,7 @@
 - GenAI Tools: Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan
 - EDA & ETL: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
 - ML: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics
-- NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning, Regex, NLTK
-- CI/CD: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
-- Big Data Frameworks: Big Query (well experienced in SQL), Data-Bricks, Apache Spark
+- CI/CD & Other: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (well experienced in SQL), Data-Bricks, Apache Spark
 # Notable Projects
 
 ## Fine Tuning Large Language Models
