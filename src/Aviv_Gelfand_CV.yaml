@@ -66,12 +66,8 @@ cv:
         details: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
       - label: ML
         details: "Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics"
-      - label: NLP
-        details: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning, Regex, NLTK
-      - label: CI/CD
-        details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
-      - label: Big Data Frameworks
-        details: Big Query (well experienced in SQL), Data-Bricks, Apache Spark
+      - label: CI/CD & Other
+        details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (well experienced in SQL), Data-Bricks, Apache Spark
 
     notable projects:
       - name: Fine Tuning Large Language Models
