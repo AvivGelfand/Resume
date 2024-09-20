@@ -63,14 +63,14 @@ cv:
         details: Python, Java, Solidity (C++ based), R, SQL, JS
       - label: Programming Libraries
         details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc), Selenium, Beautiful Soup"
-      - label: GenAI
-        details: "Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, 'Langtalks' fan"
-      - label: ETL
-        details: Basic and complex Visualizations, Advanced Statistical Inference, Cleaning, Encoding / Embedding, Imputing
+      - label: GenAI Tools
+        details: "Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan"
+      - label: EDA & ETL
+        details: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
       - label: ML
         details: "Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics"
       - label: NLP
-        details: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
+        details: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning, Regex, NLTK
       - label: CI/CD
         details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
       - label: Big Data Frameworks
@@ -89,7 +89,7 @@ cv:
         date: '[GitHub Repo](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals)'
         highlights:
           -  A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets.
-      - name: "Alfred - University Tasks Personal Asistant"
+      - name: "Alfred - University Tasks Personal Assistant"
         date: '[GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)'
         highlights:
           -  A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
@@ -119,7 +119,7 @@ design:
       right: 1.5 cm
     section_title:
       top: 0.3 cm
-      bottom: 0.2 cm
+      bottom: 0.1 cm
     entry_area:
       left_and_right: 0.2 cm
       vertical_between: 0.15 cm
