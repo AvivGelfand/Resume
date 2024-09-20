@@ -46,15 +46,13 @@
 
 # Education
 
-## The Hebrew University of Jerusalem, MSc in Statistics & Data Science
+## The Hebrew University of Jerusalem, MSc in Statistics & Data Science | Thesis on Dimensionality Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
 
 - Oct 2023 – July 2026
-- Thesis on Dimensionality Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
 
-## The Hebrew University of Jerusalem, BSc in Statistics & Data Science
+## The Hebrew University of Jerusalem, BSc in Statistics & Data Science (GPA 89)
 
 - Oct 2021 – Aug 2024
-- GPA: 89 ; Also completed 33% of the required courses for master's degree while working in several roles.
 
 # Skills and Technologies
 
