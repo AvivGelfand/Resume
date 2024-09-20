@@ -6,7 +6,7 @@
     top=0.5 cm, % seperation between body and page edge from the top
     bottom=0.5 cm, % seperation between body and page edge from the bottom
     left=1.5 cm, % seperation between body and page edge from the left
-    right=2 cm, % seperation between body and page edge from the right
+    right=1.5 cm, % seperation between body and page edge from the right
     footskip=0.25 cm, % seperation between body and footer
     % showframe % for debugging 
 ]{geometry} % for adjusting page geometry
@@ -78,7 +78,7 @@
 \newenvironment{highlights}{
     \begin{itemize}[
         topsep=0.10 cm,
-        parsep=0.10 cm,
+        parsep=0.8 cm,
         partopsep=0pt,
         itemsep=0pt,
         leftmargin=0.4 cm + 10pt
@@ -90,7 +90,7 @@
 \newenvironment{highlightsforbulletentries}{
     \begin{itemize}[
         topsep=0.10 cm,
-        parsep=0.10 cm,
+        parsep=0.8 cm,
         partopsep=0pt,
         itemsep=0pt,
         leftmargin=10pt
@@ -130,7 +130,7 @@
 \newcommand{\placelastupdatedtext}{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
   \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
     \put(
-        \LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},
+        \LenToUnit{\paperwidth-1.5 cm-0.2 cm+0.05cm},
         \LenToUnit{\paperheight-0.25 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
         \small\color{gray}\textit{Last updated in September 2024}\hspace{\widthof{Last updated in September 2024}}
@@ -154,9 +154,9 @@
     \sbox\ANDbox{}
 
     \begin{header}
-        \textbf{\fontsize{18 pt}{18 pt}\selectfont Aviv Gelfand}
+        \textbf{\fontsize{16 pt}{16 pt}\selectfont Aviv Gelfand}
 
-        \vspace{0.3 cm}
+        \vspace{0.2 cm}
 
         \normalsize
         \mbox{{\color{black}\footnotesize\faMapMarker*}\hspace*{0.13cm}Jerusalem, Israel}%
