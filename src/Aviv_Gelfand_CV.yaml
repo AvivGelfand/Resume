@@ -121,7 +121,7 @@ design:
     entry_area:
       left_and_right: 0.15 cm
       vertical_between: 0.15 cm
-      date_and_location_width: 3 cm
+      date_and_location_width: 3.5 cm
     highlights_area:
       top: 0.08 cm
       left: 0.25 cm
