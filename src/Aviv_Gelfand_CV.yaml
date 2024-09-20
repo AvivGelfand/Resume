@@ -118,10 +118,10 @@ design:
       left: 1.25 cm
       right: 1.25 cm
     section_title:
-      top: 0.2 cm
+      top: 0.15 cm
       bottom: 0.1 cm
     entry_area:
-      left_and_right: 0.2 cm
+      left_and_right: 0.15 cm
       vertical_between: 0.15 cm
       date_and_location_width: 4.5 cm
     highlights_area:
@@ -129,6 +129,6 @@ design:
       left: 0.25 cm
       vertical_between_bullet_points: 0.08 cm
     header:
-      vertical_between_name_and_connections: 0.2 cm
+      vertical_between_name_and_connections: 0.15 cm
       bottom: 0.2 cm
       horizontal_between_connections: 0.2 cm
