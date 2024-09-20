@@ -40,13 +40,13 @@
 
 ## Israel Defense Forces, Data Analyst & Research Team Leader
 
-- Dec 2018 – Dec 2020
+- Mar 2015 – Dec 2020
 - Conducted research, assessments, and analytics for high-ranked decision-makers. Triplicated, updated, and maintained strategic databases while collaborating with programmers and economists.
 - Led cross-organizational projects resulting in several two in-depth research papers with an unprecedented scale of collaboration between two research branches.
 
 # Education
 
-## The Hebrew University of Jerusalem, MSc in Data Science | Thesis on Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
+## The Hebrew University of Jerusalem, MSc in Data Science | Thesis on Dimensionality Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
 
 - Oct 2023 – July 2026
 
