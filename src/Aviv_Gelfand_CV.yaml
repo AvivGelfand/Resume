@@ -62,13 +62,11 @@ cv:
       - label: Scripting Languages and tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
       - label: Programming Libraries
-        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, groq, etc), Selenium, Beautiful soup"
+        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc), Selenium, Beautiful Soup"
       - label: GenAI
         details: "Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, 'Langtalks' fan"
-      - label: EDA
-        details: Basic and complex Visualizations, Advanced Statistical Inference
       - label: ETL
-        details: Cleaning, Encoding / Embedding, Imputing
+        details: Basic and complex Visualizations, Advanced Statistical Inference, Cleaning, Encoding / Embedding, Imputing
       - label: ML
         details: "Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics"
       - label: NLP
@@ -76,7 +74,7 @@ cv:
       - label: CI/CD
         details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
       - label: Big Data Frameworks
-        details: Big Query, Data-Bricks, Apache Spark
+        details: Big Query (well experienced in SQL), Data-Bricks, Apache Spark
     notable projects:
       - name: Fine Tuning Large Language Models
         date: '[GitHub Repo](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models)'
@@ -95,8 +93,8 @@ cv:
         date: '[GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)'
         highlights:
           -  A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
-      - name: "For over 20 more projects check out my GitHub profile"
-        date: '[GitHub Repo](https://github.com/AvivGelfand)'
+      - name: "For over 30 more projects, check out my GitHub profile."
+        date: '[github.com/AvivGelfand](https://github.com/AvivGelfand)'
           
 design:
   theme: sb2nov
