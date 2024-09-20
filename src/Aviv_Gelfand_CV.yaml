@@ -118,7 +118,7 @@ design:
       left: 1.25 cm
       right: 1.25 cm
     section_title:
-      top: 0.3 cm
+      top: 0.2 cm
       bottom: 0.1 cm
     entry_area:
       left_and_right: 0.2 cm
