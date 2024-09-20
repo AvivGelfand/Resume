@@ -68,7 +68,7 @@
     -1pt
 }{
     % top space:
-    0.2 cm
+    0.15 cm
 }{
     % bottom space:
     0.1 cm
@@ -102,9 +102,9 @@
 
 \newenvironment{onecolentry}{
     \begin{adjustwidth}{
-        0.2 cm + 0.00001 cm
+        0.15 cm + 0.00001 cm
     }{
-        0.2 cm + 0.00001 cm
+        0.15 cm + 0.00001 cm
     }
 }{
     \end{adjustwidth}
@@ -130,7 +130,7 @@
 \newcommand{\placelastupdatedtext}{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
   \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
     \put(
-        \LenToUnit{\paperwidth-1.25 cm-0.2 cm+0.05cm},
+        \LenToUnit{\paperwidth-1.25 cm-0.15 cm+0.05cm},
         \LenToUnit{\paperheight-0.25 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
         \small\color{gray}\textit{Last updated in September 2024}\hspace{\widthof{Last updated in September 2024}}
@@ -156,7 +156,7 @@
     \begin{header}
         \textbf{\fontsize{16 pt}{16 pt}\selectfont Aviv Gelfand}
 
-        \vspace{0.2 cm}
+        \vspace{0.15 cm}
 
         \normalsize
         \mbox{{\color{black}\footnotesize\faMapMarker*}\hspace*{0.13cm}Jerusalem, Israel}%
@@ -178,7 +178,7 @@
         \mbox{\hrefWithoutArrow{https://github.com/AvivGelfand}{\color{black}{\footnotesize\faGithub}\hspace*{0.13cm}AvivGelfand}}%
     \end{header}
 
-    \vspace{0.2 cm - 0.2 cm}
+    \vspace{0.2 cm - 0.15 cm}
 
 
     \section{Summary}
