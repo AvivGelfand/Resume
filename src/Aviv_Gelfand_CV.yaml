@@ -131,4 +131,4 @@ design:
     header:
       vertical_between_name_and_connections: 0.1 cm
       bottom: 0.1 cm
-      horizontal_between_connections: 0.1 cm
+      horizontal_between_connections: 0.5 cm
