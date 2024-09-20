@@ -105,7 +105,7 @@ cv:
 design:
   theme: sb2nov
   font: Latin Modern Serif
-  font_size: 10pt
+  font_size: 9pt
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
@@ -113,7 +113,7 @@ design:
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: true
   last_updated_date_style: Last updated in TODAY
-  header_font_size: 24 pt
+  header_font_size: 18 pt
   text_alignment: justified
   seperator_between_connections: ''
   use_icons_for_connections: true
@@ -136,5 +136,5 @@ design:
       vertical_between_bullet_points: 0.10 cm
     header:
       vertical_between_name_and_connections: 0.3 cm
-      bottom: 0.3 cm
+      bottom: 0.2 cm
       horizontal_between_connections: 0.5 cm
