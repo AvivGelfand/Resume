@@ -105,7 +105,7 @@ cv:
 design:
   theme: sb2nov
   font: Latin Modern Serif
-  font_size: 9pt
+  font_size: 10pt
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
