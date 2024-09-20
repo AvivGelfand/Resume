@@ -27,8 +27,7 @@ cv:
         start_date: 2022-10
         end_date: 2023-09
         highlights:
-          - Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
-          - Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods. 
+          - Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods. 
           - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
       - company: "Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab"
         position: Research & Development Assistant
@@ -56,10 +55,10 @@ cv:
         end_date: 2024-08
    
     Skills and Technologies:
-      - label: Scripting Languages and tools
+      - label: Scripting Languages and Tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
       - label: Programming Libraries
-        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more"
+        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more."
       - label: GenAI Tools
         details: "Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan"
       - label: EDA & ETL
