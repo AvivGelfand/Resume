@@ -41,14 +41,14 @@ cv:
           - Designed and analyzed online surveys; conducted literature and academic peer reviews. Web-scraped data monthly.
       - company: Israel Defense Forces
         position: Data Analyst & Research Team Leader
-        start_date: 2018-12
+        start_date: 2015-03
         end_date: 2020-12
         highlights:
           - Conducted research, assessments, and analytics for high-ranked decision-makers. Triplicated, updated, and maintained strategic databases while collaborating with programmers and economists. 
           - Led cross-organizational projects resulting in several two in-depth research papers with an unprecedented scale of collaboration between two research branches.
     education:
       - institution: The Hebrew University of Jerusalem
-        area: Data Science | Thesis on Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
+        area: Data Science | Thesis on Dimensionality Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
         degree: MSc
         start_date: 2023-10
         end_date: 2026-07
@@ -123,7 +123,7 @@ design:
     entry_area:
       left_and_right: 0.15 cm
       vertical_between: 0.15 cm
-      date_and_location_width: 4.5 cm
+      date_and_location_width: 4 cm
     highlights_area:
       top: 0.08 cm
       left: 0.25 cm
