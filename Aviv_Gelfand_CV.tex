@@ -5,8 +5,8 @@
     ignoreheadfoot, % set margins without considering header and footer
     top=0.5 cm, % seperation between body and page edge from the top
     bottom=0.5 cm, % seperation between body and page edge from the bottom
-    left=1.5 cm, % seperation between body and page edge from the left
-    right=1.5 cm, % seperation between body and page edge from the right
+    left=1.25 cm, % seperation between body and page edge from the left
+    right=1.25 cm, % seperation between body and page edge from the right
     footskip=0.25 cm, % seperation between body and footer
     % showframe % for debugging 
 ]{geometry} % for adjusting page geometry
@@ -130,7 +130,7 @@
 \newcommand{\placelastupdatedtext}{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
   \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
     \put(
-        \LenToUnit{\paperwidth-1.5 cm-0.2 cm+0.05cm},
+        \LenToUnit{\paperwidth-1.25 cm-0.2 cm+0.05cm},
         \LenToUnit{\paperheight-0.25 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
         \small\color{gray}\textit{Last updated in September 2024}\hspace{\widthof{Last updated in September 2024}}
