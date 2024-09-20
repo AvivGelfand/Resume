@@ -21,9 +21,8 @@
 - Oct 2023 – May 2024
 - Successfully executed a Supervised-Fine-Tuning training of large language models to classify defendant arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
 - Drove strategic alignment by delivering situational analyses and action plans to US-based stakeholders, effectively prioritizing objectives and focusing efforts to meet deadlines.
-- Dealt with significant imbalance using embedded cluster stratified sampling methods. Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling.
+- Dealt with significant imbalance using embedded cluster stratified sampling methods. Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling. - Presented findings at a prominent statistics and data science conference in May 2024.
 - Acquired all relevant knowledge in PyTorch and LLMs through fully independent learning, unguided.
-- Presented findings at a prominent statistics and data science conference in May 2024.
 
 ## Upscale Analytics, Statistics & Machine Learning Instructor
 
@@ -35,8 +34,7 @@
 ## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Research & Development Assistant
 
 - Apr 2022 – Mar 2023
-- Self-taught and programmed smart contracts with a C++-based programming language; developed simulations interface using react.js.
-- Designed and analyzed online surveys; conducted literature and academic peer reviews. Web-scraped data monthly.
+- Self-taught and programmed smart-contracts with a C++-based programming language; developed simulations interface using React.js. Designed and analyzed online surveys; conducted literature and academic peer reviews. Web-scraped data monthly.
 
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
