@@ -131,9 +131,9 @@ design:
       vertical_between: 0.2 cm
       date_and_location_width: 4.5 cm
     highlights_area:
-      top: 0.01 cm
+      top: 0.1 cm
       left: 0.4 cm
-      vertical_between_bullet_points: 0.8 cm
+      vertical_between_bullet_points: 0.1 cm
     header:
       vertical_between_name_and_connections: 0.2 cm
       bottom: 0.2 cm
