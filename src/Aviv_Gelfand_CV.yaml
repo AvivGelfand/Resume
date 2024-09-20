@@ -44,6 +44,7 @@ cv:
         highlights:
           - Conducted research, assessments, and analytics for high-ranked decision-makers. Triplicated, updated, and maintained strategic databases while collaborating with programmers and economists. 
           - Led cross-organizational projects resulting in several two in-depth research papers with an unprecedented scale of collaboration between two research branches.
+    
     education:
       - institution: The Hebrew University of Jerusalem
         area: Data Science | Thesis on Dimensionality Reduction in Deep Learning (LLMs focused), guided by Prof. Ariel Jaffe.
@@ -73,6 +74,7 @@ cv:
         details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
       - label: Big Data Frameworks
         details: Big Query (well experienced in SQL), Data-Bricks, Apache Spark
+
     notable projects:
       - name: Fine Tuning Large Language Models
         date: '[GitHub Repo](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models)'
