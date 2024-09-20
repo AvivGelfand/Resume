@@ -113,7 +113,7 @@ design:
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: true
   last_updated_date_style: Last updated in TODAY
-  header_font_size: 18 pt
+  header_font_size: 16 pt
   text_alignment: justified
   seperator_between_connections: ''
   use_icons_for_connections: true
@@ -122,7 +122,7 @@ design:
       top: 0.5 cm
       bottom: 0.5 cm
       left: 1.5 cm
-      right: 2 cm
+      right: 1.5 cm
     section_title:
       top: 0.3 cm
       bottom: 0.2 cm
@@ -133,8 +133,8 @@ design:
     highlights_area:
       top: 0.10 cm
       left: 0.4 cm
-      vertical_between_bullet_points: 0.10 cm
+      vertical_between_bullet_points: 0.8 cm
     header:
-      vertical_between_name_and_connections: 0.3 cm
+      vertical_between_name_and_connections: 0.2 cm
       bottom: 0.2 cm
       horizontal_between_connections: 0.5 cm
