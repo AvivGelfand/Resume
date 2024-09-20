@@ -115,8 +115,8 @@ design:
     page:
       top: 0.5 cm
       bottom: 0.5 cm
-      left: 1.5 cm
-      right: 1.5 cm
+      left: 1.25 cm
+      right: 1.25 cm
     section_title:
       top: 0.3 cm
       bottom: 0.1 cm
