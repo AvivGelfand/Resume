@@ -57,7 +57,7 @@
 # Skills and Technologies
 
 - Scripting Languages and tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc), Selenium, Beautiful Soup
+- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more
 - GenAI Tools: Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan
 - EDA & ETL: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
 - ML: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics
