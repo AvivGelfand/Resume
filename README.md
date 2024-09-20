@@ -16,7 +16,7 @@
 - Demonstrated success in AI and software development through academic/private projects and roles, with a track record of implementing machine learning models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and accurate models.
 # Experience
 
-## The Hebrew University of Jerusalem, Prof. Adi Leibovitch's Quantitative Legal Research Lab, NLP Data Scientist / Research Assistant
+## Hebrew University of Jerusalem, Dr. Adi Leibovitch's quantitative research lab, NLP Data Scientist / Research Assistant
 
 - Oct 2023 – May 2024
 - Successfully executed a Supervised-Fine-Tuning training of large language models to classify defendant arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
@@ -32,7 +32,7 @@
 - Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods.
 - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
-## The Hebrew University of Jerusalem, Renana Peres' Computational lab, Research & Development Assistant
+## Hebrew University of Jerusalem, Renana Peres's Computational Social Science lab, Research & Development Assistant
 
 - Apr 2022 – Mar 2023
 - Self-taught and programmed smart contracts with a C++-based programming language; developed simulations interface using react.js.
