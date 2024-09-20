@@ -14,7 +14,7 @@ cv:
       - bullet: 'Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; available for 80%-100% time role as a Data Scientist / ML or AI Researcher / Engineer / SW Dev.'
       - bullet: 'Demonstrated success in AI and software development through academic/private projects and roles, with a track record of implementing machine learning models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and accurate models.'
     experience:
-      - company: "Hebrew University of Jerusalem, Dr. Adi Leibovitch's quantitative research lab"
+      - company: "Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist / Research Assistant
         start_date: 2023-10
         end_date: 2024-05
@@ -32,7 +32,7 @@ cv:
           - Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
           - Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods. 
           - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
-      - company: "Hebrew University of Jerusalem, Renana Peres's Computational Social Science lab"
+      - company: "Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab"
         position: Research & Development Assistant
         start_date: 2022-04
         end_date: 2023-03
