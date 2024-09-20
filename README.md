@@ -57,14 +57,13 @@
 # Skills and Technologies
 
 - Scripting Languages and tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, groq, etc), Selenium, Beautiful soup
+- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc), Selenium, Beautiful Soup
 - GenAI: Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, 'Langtalks' fan
-- EDA: Basic and complex Visualizations, Advanced Statistical Inference
-- ETL: Cleaning, Encoding / Embedding, Imputing
+- ETL: Basic and complex Visualizations, Advanced Statistical Inference, Cleaning, Encoding / Embedding, Imputing
 - ML: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics
 - NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
 - CI/CD: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
-- Big Data Frameworks: Big Query, Data-Bricks, Apache Spark
+- Big Data Frameworks: Big Query (well experienced in SQL), Data-Bricks, Apache Spark
 # Notable Projects
 
 ## Fine Tuning Large Language Models
@@ -88,7 +87,7 @@
 - [GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)
 - A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
 
-## For over 20 more projects check out my GitHub profile
+## For over 30 more projects, check out my GitHub profile.
 
-- [GitHub Repo](https://github.com/AvivGelfand)
+- [github.com/AvivGelfand](https://github.com/AvivGelfand)
 
