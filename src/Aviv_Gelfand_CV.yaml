@@ -21,9 +21,7 @@ cv:
         highlights:
           - Successfully executed a Supervised-Fine-Tuning training of large language models to classify defendant arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
           - Drove strategic alignment by delivering situational analyses and action plans to US-based stakeholders, effectively prioritizing objectives and focusing efforts to meet deadlines.
-          - Dealt with significant imbalance using embedded cluster stratified sampling methods. Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling. - Presented findings at a prominent statistics and data science conference in May 2024.
-          - Acquired all relevant knowledge in PyTorch and LLMs through fully independent learning, unguided.
-      - company: Upscale Analytics
+          - Dealt with significant imbalance using embedded cluster stratified sampling methods. Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling. Presented findings at a prominent statistics and data science conference in May 2024.
         position: Statistics & Machine Learning Instructor
         start_date: 2022-10
         end_date: 2023-09
@@ -115,11 +113,11 @@ design:
     page:
       top: 0.1 cm
       bottom: 0.1 cm
-      left: 0.5 cm
-      right: 0.5 cm
+      left: 1 cm
+      right: 1 cm
     section_title:
-      top: 0.1 cm
-      bottom: 0.1 cm
+      top: 0.5 cm
+      bottom: 0.5 cm
     entry_area:
       left_and_right: 0.15 cm
       vertical_between: 0.15 cm
