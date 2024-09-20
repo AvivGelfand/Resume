@@ -38,7 +38,7 @@
 - Self-taught and programmed smart contracts with a C++-based programming language; developed simulations interface using react.js.
 - Designed and analyzed online surveys; conducted literature and academic peer reviews. Web-scraped data monthly.
 
-## Israel Defense Forces, Data Analyst & Research Team Leader
+## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
 - Mar 2015 – Dec 2020
 - Conducted research, assessments, and analytics for high-ranked decision-makers. Triplicated, updated, and maintained strategic databases while collaborating with programmers and economists.
