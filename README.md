@@ -32,7 +32,7 @@
 - Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods.
 - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
-## The Hebrew University of Jerusalem, Research & Development Assistant
+## The Hebrew University of Jerusalem, Renana Peres' Computational lab, Research & Development Assistant
 
 - Apr 2022 – Mar 2023
 - Self-taught and programmed smart contracts with a C++-based programming language; developed simulations interface using react.js.
