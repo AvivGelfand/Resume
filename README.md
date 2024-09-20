@@ -26,8 +26,7 @@
 ## Upscale Analytics, Statistics & Machine Learning Instructor
 
 - Oct 2022 – Sept 2023
-- Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
-- Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods.
+- Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts through their first steps in statistical inference and classic machine learning$:$ linear and logistic regressions, ensemble learners such as random forests & XGBoost, and clustering methods.
 - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
 ## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Research & Development Assistant
@@ -53,8 +52,8 @@
 
 # Skills and Technologies
 
-- Scripting Languages and tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more
+- Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS
+- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more.
 - GenAI Tools: Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan
 - EDA & ETL: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
 - ML: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics
