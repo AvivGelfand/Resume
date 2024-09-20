@@ -3,10 +3,10 @@
 % Packages:
 \usepackage[
     ignoreheadfoot, % set margins without considering header and footer
-    top=1 cm, % seperation between body and page edge from the top
+    top=0.9 cm, % seperation between body and page edge from the top
     bottom=0.5 cm, % seperation between body and page edge from the bottom
-    left=1 cm, % seperation between body and page edge from the left
-    right=1 cm, % seperation between body and page edge from the right
+    left=0.9 cm, % seperation between body and page edge from the left
+    right=0.9 cm, % seperation between body and page edge from the right
     footskip=0.25 cm, % seperation between body and footer
     % showframe % for debugging 
 ]{geometry} % for adjusting page geometry
@@ -62,10 +62,10 @@
     -1pt
 }{
     % top space:
-    0.5 cm
+    0.25 cm
 }{
     % bottom space:
-    0.5 cm
+    0.25 cm
 } % section title spacing
 
 \renewcommand\labelitemi{$\circ$} % custom bullet points
@@ -124,8 +124,8 @@
 \newcommand{\placelastupdatedtext}{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
   \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
     \put(
-        \LenToUnit{\paperwidth-1 cm-0.15 cm+0.05cm},
-        \LenToUnit{\paperheight-0.5 cm}
+        \LenToUnit{\paperwidth-0.9 cm-0.15 cm+0.05cm},
+        \LenToUnit{\paperheight-0.45 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
         \small\color{gray}\textit{Last updated in September 2024}\hspace{\widthof{Last updated in September 2024}}
     }}}%
@@ -172,7 +172,7 @@
         \mbox{\hrefWithoutArrow{https://github.com/AvivGelfand}{\color{black}{\footnotesize\faGithub}\hspace*{0.13cm}AvivGelfand}}%
     \end{header}
 
-    \vspace{0.1 cm - 0.5 cm}
+    \vspace{0.1 cm - 0.25 cm}
 
 
     \section{Summary}
