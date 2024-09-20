@@ -58,10 +58,10 @@
 
 - Scripting Languages and tools: Python, Java, Solidity (C++ based), R, SQL, JS
 - Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc), Selenium, Beautiful Soup
-- GenAI: Prompt engineering (COT, etc), Crusur, Claude, ChatGPT, Perplexity, 'Langtalks' fan
-- ETL: Basic and complex Visualizations, Advanced Statistical Inference, Cleaning, Encoding / Embedding, Imputing
+- GenAI Tools: Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan
+- EDA & ETL: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
 - ML: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics
-- NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning techniques with Regex and NLTK
+- NLP: Fine-Tuning open source LLMs, LORA, PEFT, text cleaning, Regex, NLTK
 - CI/CD: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts
 - Big Data Frameworks: Big Query (well experienced in SQL), Data-Bricks, Apache Spark
 # Notable Projects
@@ -82,7 +82,7 @@
 - [GitHub Repo](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals)
 - A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets.
 
-## Alfred - University Tasks Personal Asistant
+## Alfred - University Tasks Personal Assistant
 
 - [GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)
 - A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
