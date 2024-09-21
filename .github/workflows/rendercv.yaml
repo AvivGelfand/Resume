@@ -28,7 +28,7 @@ jobs:
       - name: RenderCV
         run: |
           cd src
-          cv_file=$(find . -maxdepth 1 -type f -name "*CV.yaml" -o -name "*CV.ymal" | head -n 1)
+          cv_file=$(find src -maxdepth 1 -type f -name "*CV.yaml" -o -name "*CV.ymal" | head -n 1)
           if [ -z "$cv_file" ]; then
             echo "No RenderCV file found!"
             exit 1
