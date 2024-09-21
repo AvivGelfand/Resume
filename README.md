@@ -38,8 +38,8 @@
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
 - Mar 2015 – Dec 2020
-- Conducted research, assessments, and analytics for high-ranked decision-makers. Triplicated, updated, and maintained strategic databases while collaborating with programmers and economists.
-- Led cross-organizational projects resulting in several in-depth research papers with an unprecedented scale of collaboration between two research branches.
+- Conducted research, assessments, and analytics for high-ranked decision-makers and led the team's triplication of strategic products.
+- Led cross-organizational projects, achieving several in-depth research papers with an unprecedented collaboration between research branches.
 
 # Education
 
