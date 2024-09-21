@@ -82,7 +82,7 @@
 - [GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)
 - A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
 
-## For over 30 more Data Science and Software Engineering projects, check out my GitHub profile.
+## For over 30 more data science and programming projects, visit my GitHub profile.
 
 - [github.com/AvivGelfand](https://github.com/AvivGelfand)
 
