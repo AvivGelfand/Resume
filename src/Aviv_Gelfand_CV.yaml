@@ -67,27 +67,27 @@ cv:
       - label: ML
         details: "Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics"
       - label: CI/CD & Other
-        details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (well experienced in SQL), Data-Bricks, Apache Spark
+        details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (proficient with SQL), Data-Bricks, Apache Spark
 
     notable projects:
-      - name: Fine Tuning Large Language Models
+      - name: Fine Tuning Large Language Models - 2024
         date: '[GitHub Repo](https://github.com/AvivGelfand/Fine-tuning-Large-Language-Models)'
         highlights:
           - This repository presents my (Aviv Gelfand) work on applying supervised fine-tuning (SFT) methods to build classifiers for labels as part of a broader project in statistical legal research collaboration led by Dr. Adi Leibovitch and Sharon Levy from The Hebrew University of Jerusalem Faculty of Law, Prof. J.J.Prescott and Grady Bridges from the University of Michigan Law School.
-      - name: "De Grandmizer Shtick! GenAI Hackathon"
+      - name: "De Grandmizer Shtick! GenAI Hackathon - 2023"
         date: '[GitHub Repo](https://github.com/AvivGelfand/GrandmizersShtick-Huji-Hackathon23)'
         highlights:
           - De Grandmizer Shtick is a Python application that generates conversations using GPT-3 and converts them into audio files using the Google Cloud Text-to-Speech API.
           - The project is designed to help create the illusion of an occupied home to intimidate burglaries and was created during HUJI Generative AI Hackathon 2023.
-      - name: "Driver Behavior Detection Using Smartphone Signals"
+      - name: "Driver Behavior Detection Using Smartphone Signals - 2024"
         date: '[GitHub Repo](https://github.com/AvivGelfand/Driver-Behavior-Detection-Using-Smartphone-Signals)'
         highlights:
           -  A Signal Detection project applying ML to identify risky driver behavior, based on academic publications and open source data-sets.
-      - name: "Alfred - University Tasks Personal Assistant"
+      - name: "Alfred - University Tasks Personal Assistant - 2022"
         date: '[GitHub Repo](https://github.com/AvivGelfand/HUJI-Moodle-Bot)'
         highlights:
           -  A deployed personal assistant software that scrapes the Hebrew University Moodle Site and notifies me via Telegram bot about every change in task deadlines.
-      - name: "For over 30 more projects, check out my GitHub profile."
+      - name: "For over 30 more Data Science and Software Engineering projects, check out my GitHub profile."
         date: '[github.com/AvivGelfand](https://github.com/AvivGelfand)'
           
 design:
