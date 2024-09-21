@@ -19,26 +19,27 @@
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
 - Oct 2023 – May 2024
-- Successfully executed Supervised-Fine-Tuning training of large language models to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
+- Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
 - Drove strategic alignment by delivering situational analyses and action plans to US-based stakeholders, effectively prioritizing objectives and focusing efforts to meet deadlines.
-- Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Presented findings at a prominent statistics and data science conference in May 2024.
+- Corrected errors in the labeled data. Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance.
+- Presented findings and achievements at a prominent statistics and data science conference in May 2024.
 
 ## Upscale Analytics, Statistics & Machine Learning Instructor
 
 - Oct 2022 – Sept 2023
-- Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts through their first steps in statistical inference and classic machine learning using Scikit-Learn, SciPy, and XGBoost Libraries.
+- Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts in tech through their first steps in statistical inference and classic machine learning using Scikit-Learn, SciPy, and XGBoost Libraries.
 - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
 ## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Research & Development Assistant
 
 - Apr 2022 – Mar 2023
-- Self-taught and programmed smart-contracts with a C++-based programming language; developed simulations interface using React.js. Designed and analyzed online surveys; conducted literature and academic peer reviews. Web-scraped data monthly.
+- Self-taught and programmed smart-contracts with a C++-based programming language; developed simulations interface (React.js). Designed and analyzed experiments. Web-scraped data monthly. Did literature and academic peer reviews.
 
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
 - Mar 2015 – Dec 2020
 - Conducted research, assessments, and analytics for high-ranked decision-makers. Triplicated, updated, and maintained strategic databases while collaborating with programmers and economists.
-- Led cross-organizational projects resulting in several two in-depth research papers with an unprecedented scale of collaboration between two research branches.
+- Led cross-organizational projects resulting in several in-depth research papers with an unprecedented scale of collaboration between two research branches.
 
 # Education
 
