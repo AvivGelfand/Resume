@@ -11,7 +11,7 @@ cv:
   sections:
     summary:
       - bullet: 'A junior Data Scientist experienced with industry and academic junior positions. 1st year MSc candidate in Data Science (HUJI); BSc in Statistics and Data Science (HUJI; GPA 89).'
-        - bullet: 'Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at a Data Science / ML Engineering teams.'
+      - bullet: 'Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at a Data Science / ML Engineering teams.'
       - bullet: 'Demonstrated success in AI and software development through numerous roles and projects over the past 8 years, with a track record of implementing classic / one-shot / few-shot models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and precise models.'
     experience:
       - company: "Darrow AI"
