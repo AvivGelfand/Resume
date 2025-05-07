@@ -18,7 +18,7 @@
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
-- 2023 – 2025
+- Oct 2023 – May 2024
 - Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
 - Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Corrected errors in the labeled data.
 - Presented findings and achievements at a prominent statistics and data science conference in May 2024.
