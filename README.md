@@ -19,8 +19,8 @@
 ## Darrow AI, Data Scientist
 
 - 2024 – 2025
-- Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
-- Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Corrected errors in the labeled data.
+- Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, finding the one to thousands 1M USD worth lead.
+- Preformed numeros model evaluation and error analysis tasks, side-kicking senior ML Data Scientists, working with AWS environment, elastic and tabular databases, and numeros APIs.
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
