@@ -12,7 +12,7 @@
 # Summary
 
 - A junior Data Scientist experienced with industry and academic junior positions. 1st year MSc candidate in Data Science (HUJI); BSc in Statistics and Data Science (HUJI; GPA 89).
-- Demonstrated success in software development and ML through roles and projects over the past 8 years;a track record of applying ML / LLMs / prompt-based models on complex problems requiring close collaboration and rapid self-learning skills.
+- Demonstrated success in software development and ML through roles and projects over the past 8 years; a track record of applying ML / LLMs / prompt-based models on complex problems requiring close collaboration and rapid self-learning skills.
 - Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at Data Science / ML Engineering teams.
 # Experience
 
@@ -58,7 +58,7 @@
 # Skills and Technologies
 
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- GenAI Tools: Prompt engineering (COT, Few-Shot, etc),structured output schemas, Crusur AI, Claude, ChatGPT
-- EDA & ETL: SQL, Simplifying Results in vizualizations, Cleaning, Encoding / Embedding
+- GenAI Tools: Prompt engineering (COT, Few-Shot, etc), structured output schemas, Crusur AI, Claude, ChatGPT
+- EDA & ETL: SQL, Simplifying Results in visualizations, Cleaning, Encoding / Embedding
 - ML: Efficient Sampling methods, Parameter Optimization, Evaluation Metrics
-- CI/CD & Other: GIT, Docker files,Aiflow, DataDog, GitHub workflows, Shell scripts, Big-Query, Data-Bricks
+- CI/CD & Other: GIT, Docker files, Aiflow, DataDog, GitHub workflows, Shell scripts, Big-Query, Data-Bricks
