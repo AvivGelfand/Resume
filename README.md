@@ -16,6 +16,12 @@
 - Demonstrated success in AI and software development through numerous roles and projects over the past 8 years, with a track record of implementing classic / one-shot / few-shot models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and precise models.
 # Experience
 
+## Darrow AI, Data Scientist
+
+- 2024 – 2025
+- Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
+- Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Corrected errors in the labeled data.
+
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
 - Oct 2023 – May 2024
