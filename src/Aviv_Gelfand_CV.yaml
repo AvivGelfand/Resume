@@ -23,28 +23,28 @@ cv:
           - Performed numerous model evaluation and error analysis tasks, collaboratted with senior Data Scientists, PMs and other stakeholders, worked with AWS enviroment, Airflow, Atlassian (JIRA), Elastic, and tabular databases.
       - company: "Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist / Research Assistant
-        start_date: 2023-10
-        end_date: 2024-05
+        start_date: 2023
+        end_date: 2024
         highlights:
           - Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
           - Achieved over 90% accuracy and 80% F1 scores in most target labels. Saved days of model complexity and training time using efficient sampling, overcoming significant imbalance. Presented findings and achievements at a prominent statistics and data science conference in May 2024.
       - company: Upscale Analytics
         position: Statistics & Machine Learning Instructor
-        start_date: 2022-10
-        end_date: 2023-09
+        start_date: 2022
+        end_date: 2024
         highlights:
           - Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts in tech through their first steps in statistical inference and classic machine learning using Scikit-Learn, SciPy, and XGBoost Libraries. 
           - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
       - company: "Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab"
         position: Research & Development Assistant
-        start_date: 2022-04
-        end_date: 2023-03
+        start_date: 2022
+        end_date: 2023
         highlights:
           - Self-taught and programmed smart-contracts with a C++-based programming language; developed simulations interface (React.js). Designed and analyzed experiments. Web-scraped data monthly. Did literature and academic peer reviews. 
       - company: Israel Defense Forces (Volunteered, Lieutenant) 
         position: Data Analyst & Research Team Leader
-        start_date: 2015-03
-        end_date: 2020-12
+        start_date: 2015
+        end_date: 2020
         highlights:
           - "Conducted research, assessments, and analytics for high-ranked decision-makers and led the team's triplication of strategic products."
           - Led cross-organizational projects, achieving several in-depth research papers with an unprecedented collaboration between research branches.
@@ -52,8 +52,8 @@ cv:
       - institution: The Hebrew University of Jerusalem
         area: Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe.
         degree: MSc
-        start_date: 2023-10
-        end_date: 2026-07
+        start_date: 2024
+        end_date: 2026
       - institution: The Hebrew University of Jerusalem
         area: Statistics & Data Science (GPA 89) 
         degree: BSc
