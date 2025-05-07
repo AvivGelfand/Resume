@@ -14,13 +14,13 @@ cv:
       - bullet: 'Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at Data Science / ML Engineering teams.'
       - bullet: 'Demonstrated success in AI and software development through numerous roles and projects over the past 8 years, with a track record of implementing classic / one-shot / few-shot models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and precise models.'
     experience:
-      - company: "Darrow AI"
+      - company: "Darrow AI - Data Science Team"
         position: Data Scientist
         start_date: 2024
         end_date: 2025
         highlights:
           - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
-          - Performed numerous model evaluation and error analysis tasks, side-kicked senior ML Data Scientists in their own tasks, worked with AWS, Airflow, Elastic, and tabular databases.
+          - Performed numerous model evaluation and error analysis tasks, collaboratted with senior Data Scientists, PMs and other stakeholders, worked with AWS enviroment, Airflow, Atlassian (JIRA), Elastic, and tabular databases.
       - company: "Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist / Research Assistant
         start_date: 2023-10
@@ -71,7 +71,7 @@ cv:
       - label: ML
         details: "Efficient Sampling methods, Parameter Optimization, Evaluation Metrics"
       - label: CI/CD & Other
-        details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (proficient with SQL), Data-Bricks, Apache Spark
+        details: GIT, Docker files,Aiflow, DataDog, GitHub workflows, Shell scripts, Big-Query, Data-Bricks 
 design:
   theme: sb2nov
   font: Latin Modern Serif
