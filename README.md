@@ -20,7 +20,7 @@
 
 - 2024 – 2025
 - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
-- Preformed numeros model evaluation and error analysis tasks, side-kicking senior ML Data Scientists, working with AWS environment, elastic and tabular databases, and numeros APIs.
+- Preformed numeros model evaluation and error analysis tasks, side-kicked senior ML Data Scientists in their own tasks, worked with AWS, Airflow, Elastic and tabular databases.
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
