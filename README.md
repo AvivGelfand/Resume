@@ -16,7 +16,7 @@
 - Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at Data Science / ML Engineering teams.
 # Experience
 
-## Darrow AI - Data Science Team, Data Scientist
+## Darrow AI - Data Science Team, NLP Data Scientist
 
 - 2024 – 2025
 - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
