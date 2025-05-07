@@ -20,14 +20,14 @@ cv:
         end_date: 2025
         highlights:
           - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
-          - Preformed numeros model evaluation and error analysis tasks, side-kicked senior ML Data Scientists in their own tasks, worked with AWS, Airflow, Elastic and tabular databases.
+          - Performed numerous model evaluation and error analysis tasks, side-kicked senior ML Data Scientists in their own tasks, worked with AWS, Airflow, Elastic, and tabular databases.
       - company: "Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist / Research Assistant
         start_date: 2023-10
         end_date: 2024-05
         highlights:
-          - Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
-          - Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Corrected errors in the labeled data.
+          - Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
+          - Reached over 90% accuracy and 80% F1 scores in most target labels. Reduced 10X model complexity and training time using efficient sampling, overcoming significant imbalance. 
           - Presented findings and achievements at a prominent statistics and data science conference in May 2024.
       - company: Upscale Analytics
         position: Statistics & Machine Learning Instructor
@@ -60,18 +60,16 @@ cv:
         degree: BSc
         start_date: 2021-10
         end_date: 2024-08
-   
+
     Skills and Technologies:
       - label: Scripting Languages and Tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
-      - label: Programming Libraries
-        details: "Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more."
       - label: GenAI Tools
-        details: "Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan"
+        details: "Prompt engineering (COT, Few-Shot, etc),structured output schemas, Crusur AI, Claude, ChatGPT"
       - label: EDA & ETL
-        details: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
+        details: SQL, Simplifying Results in vizualizations, Cleaning, Encoding / Embedding
       - label: ML
-        details: "Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics"
+        details: "Efficient Sampling methods, Parameter Optimization, Evaluation Metrics"
       - label: CI/CD & Other
         details: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (proficient with SQL), Data-Bricks, Apache Spark
 design:
