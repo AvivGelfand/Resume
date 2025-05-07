@@ -20,13 +20,13 @@
 
 - 2024 – 2025
 - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
-- Preformed numeros model evaluation and error analysis tasks, side-kicked senior ML Data Scientists in their own tasks, worked with AWS, Airflow, Elastic and tabular databases.
+- Performed numerous model evaluation and error analysis tasks, side-kicked senior ML Data Scientists in their own tasks, worked with AWS, Airflow, Elastic, and tabular databases.
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
 - Oct 2023 – May 2024
-- Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
-- Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Corrected errors in the labeled data.
+- Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
+- Reached over 90% accuracy and 80% F1 scores in most target labels. Reduced 10X model complexity and training time using efficient sampling, overcoming significant imbalance.
 - Presented findings and achievements at a prominent statistics and data science conference in May 2024.
 
 ## Upscale Analytics, Statistics & Machine Learning Instructor
@@ -59,8 +59,7 @@
 # Skills and Technologies
 
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- Programming Libraries: Pandas, PyTorch, Transformers, SKlearn, LLM's SDK (OpenAI, Groq, etc) and more.
-- GenAI Tools: Prompt engineering (COT, etc), Crusur AI, Claude, ChatGPT, Perplexity, a 'Langtalks' fan
-- EDA & ETL: Basic and complex Visualizations, Statistical Inference and modeling, Cleaning, Encoding / Embedding
-- ML: Efficient Sampling, Feature Engineering, Parameters Optimization, Evaluation Metrics
+- GenAI Tools: Prompt engineering (COT, Few-Shot, etc),structured output schemas, Crusur AI, Claude, ChatGPT
+- EDA & ETL: SQL, Simplifying Results in vizualizations, Cleaning, Encoding / Embedding
+- ML: Efficient Sampling methods, Parameter Optimization, Evaluation Metrics
 - CI/CD & Other: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (proficient with SQL), Data-Bricks, Apache Spark
