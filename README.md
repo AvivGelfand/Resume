@@ -24,24 +24,24 @@
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
-- Oct 2023 – May 2024
+- 2023 – 2024
 - Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
 - Achieved over 90% accuracy and 80% F1 scores in most target labels. Saved days of model complexity and training time using efficient sampling, overcoming significant imbalance. Presented findings and achievements at a prominent statistics and data science conference in May 2024.
 
 ## Upscale Analytics, Statistics & Machine Learning Instructor
 
-- Oct 2022 – Sept 2023
+- 2022 – 2024
 - Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts in tech through their first steps in statistical inference and classic machine learning using Scikit-Learn, SciPy, and XGBoost Libraries.
 - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
 ## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Research & Development Assistant
 
-- Apr 2022 – Mar 2023
+- 2022 – 2023
 - Self-taught and programmed smart-contracts with a C++-based programming language; developed simulations interface (React.js). Designed and analyzed experiments. Web-scraped data monthly. Did literature and academic peer reviews.
 
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
-- Mar 2015 – Dec 2020
+- 2015 – 2020
 - Conducted research, assessments, and analytics for high-ranked decision-makers and led the team's triplication of strategic products.
 - Led cross-organizational projects, achieving several in-depth research papers with an unprecedented collaboration between research branches.
 
@@ -49,7 +49,7 @@
 
 ## The Hebrew University of Jerusalem, MSc in Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe.
 
-- Oct 2023 – July 2026
+- 2024 – 2026
 
 ## The Hebrew University of Jerusalem, BSc in Statistics & Data Science (GPA 89)
 
