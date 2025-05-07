@@ -12,13 +12,13 @@
 # Summary
 
 - A junior Data Scientist experienced with industry and academic junior positions. 1st year MSc candidate in Data Science (HUJI); BSc in Statistics and Data Science (HUJI; GPA 89).
-- Demonstrated success in software development and ML through roles and projects over the past 8 years; a track record of applying ML / LLMs / prompt-based models on complex problems requiring close collaboration and rapid self-learning skills.
+- Demonstrated success in software development and ML through roles and projects over the past 6 years; a track record of applying ML / LLMs / prompt-based models on complex problems requiring close collaboration and rapid self-learning skills.
 - Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at Data Science / ML Engineering teams.
 # Experience
 
 ## Darrow AI - Data Science Team, NLP Data Scientist
 
-- 2024 – 2025
+- 2024 – present
 - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
 - Performed numerous model evaluation and error analysis tasks, collaboratted with senior Data Scientists, PMs and other stakeholders, worked with AWS enviroment, Airflow, Atlassian (JIRA), Elastic, and tabular databases.
 
