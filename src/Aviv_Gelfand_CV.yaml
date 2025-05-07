@@ -14,6 +14,13 @@ cv:
       - bullet: 'Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at Data Science / ML Engineering teams.'
       - bullet: 'Demonstrated success in AI and software development through numerous roles and projects over the past 8 years, with a track record of implementing classic / one-shot / few-shot models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and precise models.'
     experience:
+      - company: "Darrow AI"
+        position: Data Scientist
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
+          - Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Corrected errors in the labeled data.
       - company: "Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist / Research Assistant
         start_date: 2023-10
