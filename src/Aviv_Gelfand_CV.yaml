@@ -17,7 +17,7 @@ cv:
       - company: "Darrow AI - Data Science Team"
         position: NLP Data Scientist
         start_date: 2024
-        end_date: Now
+        end_date: Current
         highlights:
           - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
           - Performed numerous model evaluation and error analysis tasks, collaboratted with senior Data Scientists, PMs and other stakeholders, worked with AWS enviroment, Airflow, Atlassian (JIRA), Elastic, and tabular databases.
