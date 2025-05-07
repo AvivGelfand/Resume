@@ -16,11 +16,11 @@
 - Demonstrated success in AI and software development through numerous roles and projects over the past 8 years, with a track record of implementing classic / one-shot / few-shot models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and precise models.
 # Experience
 
-## Darrow AI, Data Scientist
+## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – 2025
 - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
-- Performed numerous model evaluation and error analysis tasks, side-kicked senior ML Data Scientists in their own tasks, worked with AWS, Airflow, Elastic, and tabular databases.
+- Performed numerous model evaluation and error analysis tasks, collaboratted with senior Data Scientists, PMs and other stakeholders, worked with AWS enviroment, Airflow, Atlassian (JIRA), Elastic, and tabular databases.
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
@@ -62,4 +62,4 @@
 - GenAI Tools: Prompt engineering (COT, Few-Shot, etc),structured output schemas, Crusur AI, Claude, ChatGPT
 - EDA & ETL: SQL, Simplifying Results in vizualizations, Cleaning, Encoding / Embedding
 - ML: Efficient Sampling methods, Parameter Optimization, Evaluation Metrics
-- CI/CD & Other: GIT, Linux, SLURM Cluster system, GitHub workflows, shell scripts, Big Query (proficient with SQL), Data-Bricks, Apache Spark
+- CI/CD & Other: GIT, Docker files,Aiflow, DataDog, GitHub workflows, Shell scripts, Big-Query, Data-Bricks
