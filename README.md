@@ -11,16 +11,15 @@
 
 # Summary
 
-- 1st year MSc candidate in Data Science (HUJI); Thesis: Dimensionality reduction of Deep Learning problem space through statistical methods and graph theory. BSc in Statistics and Data Science (HUJI; GPA 89).
-- Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; available for 80%-100% time role as a Data Scientist / ML or AI Researcher / Engineer / SW Dev.
-- Demonstrated success in AI and software development through numerous roles and projects over the past 8 years, with a track record of implementing machine learning models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and accurate models.
+- A junior Data Scientist experienced with industry and academic junior positions. 1st year MSc candidate in Data Science (HUJI); BSc in Statistics and Data Science (HUJI; GPA 89).
+- Dedicated to long-term growth in a cutting-edge company with a positive atmosphere; Looking for a full-time role at Data Science / ML Engineering teams.
+- Demonstrated success in AI and software development through numerous roles and projects over the past 8 years, with a track record of implementing classic / one-shot / few-shot models to solve complex problems requiring strong collaboration and rapid self-learning skills, consistently delivering efficient and precise models.
 # Experience
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
 
-- Oct 2023 – May 2024
+- 2023 – 2025
 - Successfully executed Supervised-Fine-Tuning of large language models (frameworks$:$ PyTorch, Transformers) to classify arguments in trials for a broader statistical legal research project; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
-- Drove strategic alignment by delivering situational analyses and action plans to US-based stakeholders, effectively prioritizing objectives and focusing efforts to meet deadlines.
 - Reached over 90% accuracy and 80% F1 scores in most target labels. Substantially reduced model complexity and training time using efficient sampling and overcoming significant imbalance. Corrected errors in the labeled data.
 - Presented findings and achievements at a prominent statistics and data science conference in May 2024.
 
