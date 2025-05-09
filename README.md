@@ -53,7 +53,7 @@
 
 ## The Hebrew University of Jerusalem, BSc in Statistics & Data Science (GPA 89)
 
-- Oct 2021 – Aug 2024
+- 2021 – 2024
 
 # Skills and Technologies
 
