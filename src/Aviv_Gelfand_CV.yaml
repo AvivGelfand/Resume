@@ -57,8 +57,8 @@ cv:
       - institution: The Hebrew University of Jerusalem
         area: Statistics & Data Science (GPA 89) 
         degree: BSc
-        start_date: 2021-10
-        end_date: 2024-08
+        start_date: 2021
+        end_date: 2024
 
     Skills and Technologies:
       - label: Scripting Languages and Tools
