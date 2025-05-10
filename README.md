@@ -58,8 +58,8 @@
 
 # Skills and Technologies
 
-- Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- GenAI Tools: Prompt engineering (CoT, Few-Shot, etc), structured output schemas, fine-tuning open-source models
-- EDA & ETL: Visualizing, Cleaning, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
-- ML: Efficient Sampling methods, Parameter Optimization, Evaluation Metrics
-- CI/CD & Other: GIT, Docker files, Aiflow, GitHub workflows, sh scripts, DataDog (on-call)
+- Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS, DataBricks
+- GenAI Tools: Prompt engineering (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models
+- EDA & ETL: Visualizing, Cleaning, imputing, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
+- ML & Stats: model evaluations, error analysis, robust measurement, efficient sampling, PEFT, LORA
+- CI/CD & Other: GIT, Docker, Aiflow, GitHub workflows, sh scripts, DataDog (on-call fun)
