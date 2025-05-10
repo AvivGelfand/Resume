@@ -11,15 +11,15 @@
 
 # Summary
 
-- A junior Data Scientist experienced with industry and academic data science positions.  1st year MSc candidate in Data Science (HUJI); BSc in Statistics and Data Science (HUJI; GPA 89).
-- Demonstrated success in software development and ML through roles and projects over the past 6 years; a track record of applying ML / LLMs / prompt-based models on complex problems requiring close collaboration and rapid self-learning skills.
+- Early-career Data Scientist with practical, production-oriented experience in data science across tech (production-grade), academia, military, and training domains. 1st year MSc in Data Science (HUJI); BSc in Statistics and Data Science (HUJI, GPA 89).
+- Proven ability to design and implement impactful ML solutions — from classic models to LLMs — in complex, real-world settings, combining high-level software engineering practices with collaborative workflows and rapid self-learning.
 - Dedicated to long-term growth in a full-time role in a DS / ML Engineering team with a positive atmosphere where I can grow, contribute meaningfully, and help turn innovative ideas into reality.
 # Experience
 
 ## Darrow AI - Data Science Team, NLP Data Scientist
 
 - 2024 – present
-- Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping from and data matching from several sources, and Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
+- Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping intersecting sources, developing a few-shot CoT model Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
 - Performed numerous model evaluation and error analysis tasks, collaboratted with senior Data Scientists, PMs and other stakeholders, worked with AWS enviroment, Airflow, Atlassian (JIRA), Elastic, and tabular databases.
 
 ## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
@@ -37,7 +37,7 @@
 ## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Research & Development Assistant
 
 - 2022 – 2023
-- Self-taught and programmed smart-contracts with a C++-based programming language; developed simulations interface (React.js). Designed and analyzed experiments. Web-scraped data monthly. Did literature and academic peer reviews.
+- Self-taught and programmed smart contracts with a C++-based programming language; and developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews.
 
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
