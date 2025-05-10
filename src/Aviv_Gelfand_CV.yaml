@@ -22,8 +22,9 @@ cv:
         start_date: 2024
         end_date: 
         highlights:
-          - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping intersecting sources, developing a few-shot CoT model Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
-          - Performed numerous model evaluation and error analysis tasks, collaboratted with senior Data Scientists, PMs and other stakeholders, worked with AWS enviroment, Airflow, Atlassian (JIRA), Elastic, and tabular databases.
+          - Designed and deployed a robust production pipeline that uncovered \$1M+ lead. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
+          - Performed numerous feature developments, model evaluations, and error analysis tasks, collaborated with senior DSs, DEs, PMs, and further stakeholders. 
+          - Worked with AWS environment, Airflow, Atlassian (JIRA), Elastic, OpenSearch, and relational tabular databases.
       - company: "Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist / Research Assistant
         start_date: 2023
