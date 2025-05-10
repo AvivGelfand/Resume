@@ -33,7 +33,7 @@
 
 - 2022 – 2024
 - Built dozens of hands-on  ML projects as assignments for a practical course in statistical inference and classic ML, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
-- Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries.
+- Advanced from teaching assistant to instructor, then to a full rights partner after 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries.
 
 ## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Programmer & Research Assistant
 
