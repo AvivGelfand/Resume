@@ -51,7 +51,7 @@ cv:
         end_date: 2020
         highlights:
           - "Conducted research, assessments, and analytics for high-ranked decision-makers and tripled teams' ongoing products."
-          - Led cross-organizational projects, achieving several in-depth research papers with an unprecedented collaboration between research branches.
+          - Led cross-organizational initiatives, achieving in-depth research papers with an unprecedented collabs between research branches.
     
     # EDUCATION
     education:
@@ -70,7 +70,7 @@ cv:
       - label: Scripting Languages and Tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS
       - label: GenAI Tools
-        details: "Prompt engineering (COT, Few-Shot, etc), structured output schemas; Pydantic, HF"
+        details: "Prompt engineering (COT, Few-Shot, etc), structured output schemas; fine-tuning opensource models"
       - label: EDA & ETL
         details: Visualizaing, Cleaning, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
       - label: ML
