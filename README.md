@@ -44,7 +44,7 @@
 
 - 2015 – 2020
 - Conducted research, assessments, and analytics for high-ranked decision-makers and tripled teams' ongoing products.
-- Led cross-organizational initiatives, achieving in-depth research papers with an unprecedented collabs between research branches.
+- Led cross-organizational initiatives, achieving in-depth research papers through unprecedented collabs between research branches.
 
 # Education
 
