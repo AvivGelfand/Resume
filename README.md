@@ -44,7 +44,7 @@
 
 - 2015 – 2020
 - Conducted research, assessments, and analytics for high-ranked decision-makers and tripled teams' ongoing products.
-- Led cross-organizational projects, achieving several in-depth research papers with an unprecedented collaboration between research branches.
+- Led cross-organizational initiatives, achieving in-depth research papers with an unprecedented collabs between research branches.
 
 # Education
 
@@ -59,7 +59,7 @@
 # Skills and Technologies
 
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- GenAI Tools: Prompt engineering (COT, Few-Shot, etc), structured output schemas; Pydantic, HF
+- GenAI Tools: Prompt engineering (COT, Few-Shot, etc), structured output schemas; fine-tuning opensource models
 - EDA & ETL: Visualizaing, Cleaning, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
 - ML: Efficient Sampling methods, Parameter Optimization, Evaluation Metrics
 - CI/CD & Other: GIT, Docker files, Aiflow, GitHub workflows, sh scripts, DataDog (on-call)
