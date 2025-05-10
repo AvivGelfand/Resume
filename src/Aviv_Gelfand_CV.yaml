@@ -76,7 +76,7 @@ cv:
       - label: ML & Stats
         details: "model evaluations, error analysis, robust measurement, efficient sampling, PEFT, LORA"
       - label: CI/CD & Other
-        details: GIT, Docker, Aiflow, GitHub workflows, sh scripts, DataDog (on-call fun)
+        details: GIT, Docker, Aiflow, GitHub workflows, shell scripts, DataDog (on-call shifts)
 design:
   theme: sb2nov
   font: Latin Modern Serif
