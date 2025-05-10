@@ -11,7 +11,7 @@
 
 # Summary
 
-- Early-career Data Scientist with practical, production-oriented experience in data science across tech (production-grade), academia, military, and training domains. 1st year MSc in Data Science (HUJI); BSc in Statistics and Data Science (HUJI, GPA 89).
+- Early-career Data Scientist with practical, result-oriented experience in DS roles domains spanning tech (production-grade), academia, and others. 1st year MSc in Data Science (HUJI); BSc in Statistics and Data Science (HUJI, GPA 89).
 - Proven ability to design and implement impactful ML solutions — from classic models to LLMs — in complex, real-world settings, combining high-level software engineering practices with collaborative workflows and rapid self-learning.
 - Dedicated to long-term growth in a full-time role in a DS / ML Engineering team with a positive atmosphere where I can grow, contribute meaningfully, and help turn innovative ideas into reality.
 # Experience
