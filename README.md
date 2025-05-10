@@ -20,10 +20,10 @@
 
 - 2024 – present
 - Designed and deployed a robust production pipeline that uncovered \$1M+ lead. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
-- Performed numerous feature developments, model evaluations, and error analysis tasks, collaborated with senior DSs, DEs, PMs, and further stakeholders.
+- Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders.
 - Worked with AWS environment, Airflow, Atlassian (JIRA), Elastic, OpenSearch, and relational tabular databases.
 
-## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist / Research Assistant
+## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
 
 - 2023 – 2024
 - Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
@@ -35,16 +35,16 @@
 - Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts in tech through their first steps in statistical inference and classic machine learning using Scikit-Learn, SciPy, and XGBoost Libraries.
 - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
-## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Programmer and Research Assistant
+## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Programmer & Research Assistant
 
 - 2022 – 2023
-- Self-taught and programmed smart contracts with a C++-based programming language; and developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews.
+- Self-taught and programmed smart contracts with a C++-based programming language, and developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews.
 
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
 - 2015 – 2020
 - Conducted research, assessments, and analytics for high-ranked decision-makers and tripled teams' ongoing products.
-- Led cross-organizational initiatives, achieving in-depth research papers through unprecedented collabs between research branches.
+- Led cross-organizational initiatives, achieving in-depth research papers through unprecedented cooperations between research branches.
 
 # Education
 
@@ -59,7 +59,7 @@
 # Skills and Technologies
 
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS
-- GenAI Tools: Prompt engineering (COT, Few-Shot, etc), structured output schemas; fine-tuning opensource models
-- EDA & ETL: Visualizaing, Cleaning, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
+- GenAI Tools: Prompt engineering (CoT, Few-Shot, etc), structured output schemas, fine-tuning open-source models
+- EDA & ETL: Visualizing, Cleaning, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
 - ML: Efficient Sampling methods, Parameter Optimization, Evaluation Metrics
 - CI/CD & Other: GIT, Docker files, Aiflow, GitHub workflows, sh scripts, DataDog (on-call)
