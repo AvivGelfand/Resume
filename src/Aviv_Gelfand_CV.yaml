@@ -68,15 +68,15 @@ cv:
 
     Skills and Technologies:
       - label: Scripting Languages and Tools
-        details: Python, Java, Solidity (C++ based), R, SQL, JS
+        details: Python, Java, Solidity (C++ based), R, SQL, JS, DataBricks
       - label: GenAI Tools
-        details: "Prompt engineering (CoT, Few-Shot, etc), structured output schemas, fine-tuning open-source models"
+        details: "Prompt engineering (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models"
       - label: EDA & ETL
-        details: Visualizing, Cleaning, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
-      - label: ML
-        details: "Efficient Sampling methods, Parameter Optimization, Evaluation Metrics"
+        details: Visualizing, Cleaning, imputing, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
+      - label: ML & Stats
+        details: "model evaluations, error analysis, robust measurement, efficient sampling, PEFT, LORA"
       - label: CI/CD & Other
-        details: GIT, Docker files, Aiflow, GitHub workflows, sh scripts, DataDog (on-call)
+        details: GIT, Docker, Aiflow, GitHub workflows, sh scripts, DataDog (on-call fun)
 design:
   theme: sb2nov
   font: Latin Modern Serif
