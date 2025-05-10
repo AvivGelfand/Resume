@@ -16,7 +16,7 @@
 - Dedicated to long-term growth in a full-time role in a DS / ML Engineering team with a positive atmosphere where I can grow, contribute meaningfully, and help turn innovative ideas into reality.
 # Experience
 
-## Darrow AI - Data Science Team, NLP Data Scientist
+## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – present
 - Developed into production a pipeline of enriching leads databases with domain-focused knowledge. Utilized web-scraping intersecting sources, developing a few-shot CoT model Open AI Batch API calls, enabling filtering and finding 1M\$ leads.
@@ -34,7 +34,7 @@
 - Built dozens of ML hands-on projects for a Machine Learning and Statistical Inference course, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. Instructed data analysts in tech through their first steps in statistical inference and classic machine learning using Scikit-Learn, SciPy, and XGBoost Libraries.
 - Advanced from teaching assistant to instructor, then to a partner role. 3 successful semesters of weekly TA sessions with a significant presence of students.
 
-## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Research & Development Assistant
+## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Programmer and Research Assistant
 
 - 2022 – 2023
 - Self-taught and programmed smart contracts with a C++-based programming language; and developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews.
@@ -42,8 +42,8 @@
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
 - 2015 – 2020
-- Conducted research, assessments, and analytics for high-ranked decision-makers and led the team's triplication of strategic products.
-- Led cross-organizational projects, achieving several in-depth research papers with an unprecedented collaboration between research branches.
+- Conducted research, assessments, and analytics for high-ranked decision-makers and to 3x our strategic products.
+- Led cross-organizational projects. Achieved several in-depth research papers with an unprecedented collaboration between research branches.
 
 # Education
 
