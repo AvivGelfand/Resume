@@ -23,7 +23,7 @@
 - Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders.
 - Worked with AWS environment, Airflow, Atlassian (JIRA), Elastic, OpenSearch, and relational tabular databases.
 
-## Hebrew University of Jerusalem - Dr. Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
+## Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
 
 - 2023 – 2024
 - Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging.
