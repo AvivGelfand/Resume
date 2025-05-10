@@ -70,7 +70,7 @@ cv:
       - label: Scripting Languages and Tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS, DataBricks
       - label: GenAI Tools
-        details: "Prompt engineering (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models"
+        details: "Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models"
       - label: EDA & ETL
         details: Visualizing, Cleaning, imputing, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
       - label: ML & Stats
