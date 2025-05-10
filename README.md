@@ -62,4 +62,4 @@
 - GenAI Tools: Prompt engineering (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models
 - EDA & ETL: Visualizing, Cleaning, imputing, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
 - ML & Stats: model evaluations, error analysis, robust measurement, efficient sampling, PEFT, LORA
-- CI/CD & Other: GIT, Docker, Aiflow, GitHub workflows, sh scripts, DataDog (on-call fun)
+- CI/CD & Other: GIT, Docker, Aiflow, GitHub workflows, shell scripts, DataDog (on-call shifts)
