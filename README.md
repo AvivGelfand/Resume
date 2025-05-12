@@ -12,7 +12,7 @@
 # Summary
 
 - Early-career Data Scientist with practical, result-oriented experience in DS roles across tech (production-grade), academia, military, and training. MSc in progress (HUJI, Data Science); BSc Statistics & Data Science (HUJI, GPA: 89).
-- Proven ability to design and implement robust and impactful ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning.
+- Proven ability to design and implement robust and impactful ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning. A financial geek.
 - Dedicated to long-term growth in a full-time role at a DS / ML Engineering team with a positive atmosphere where I can grow, contribute meaningfully, and help turn innovative ideas into reality.
 # Experience
 
