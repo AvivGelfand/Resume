@@ -12,7 +12,7 @@
 # Summary
 
 - Early-career Data Scientist with practical, result-oriented experience in DS roles across tech (production-grade), academia, military, and training. MSc in progress (HUJI, Data Science); BSc Statistics & Data Science (HUJI, GPA: 89).
-- Proven ability to design and implement robust and impactful ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning. A financial geek.
+- Proven ability to design and implement robust and impactful ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning. A hackathoner, financial enthusiast, and avid volleyball player.
 - Dedicated to long-term growth in a full-time role at a DS / ML Engineering team with a positive atmosphere where I can grow, contribute meaningfully, and help turn innovative ideas into reality.
 # Experience
 
@@ -21,7 +21,7 @@
 - 2024 – present
 - Designed and deployed an A-Z production pipeline that uncovered a \$1M+ value sale. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
 - Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders.
-- Worked with AWS environment, Airflow, Atlassian (JIRA), Elastic, OpenSearch, and relational tabular databases.
+- Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch and Postgress databases.
 
 ## Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
 
