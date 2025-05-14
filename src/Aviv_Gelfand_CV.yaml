@@ -75,7 +75,7 @@ cv:
       - label: EDA & ETL
         details: visualizing, cleaning, imputing, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
       - label: ML & Stats
-        details: "model evaluations, error analysis, robust measurement, efficient sampling, PEFT, LORA"
+        details: "SKLearn, PyTorch, PEFT, LORA, model evaluations, error analysis, robust measurement, efficient sampling"
       - label: CI/CD & Other
         details: GIT, Docker, Aiflow, GitHub workflows, shell scripts, DataDog (on-call shifts)
 design:
