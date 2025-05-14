@@ -61,5 +61,5 @@
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS, DataBricks
 - GenAI Tools: Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models
 - EDA & ETL: visualizing, cleaning, imputing, Encoding / Embedding; DataBricks, DataGrip, OpenSearch (Elastic)
-- ML & Stats: model evaluations, error analysis, robust measurement, efficient sampling, PEFT, LORA
+- ML & Stats: SKLearn, PyTorch, PEFT, LORA, model evaluations, error analysis, robust measurement, efficient sampling
 - CI/CD & Other: GIT, Docker, Aiflow, GitHub workflows, shell scripts, DataDog (on-call shifts)
