@@ -27,7 +27,8 @@
 
 - 2023 – 2024
 - Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging. Applied PEFT and LoRA with HF and PyTorch.
-- Achieved over 90% accuracy and 80% F1 scores in most target labels. Saved days of model complexity and training time using efficient sampling, overcoming significant imbalance. Presented findings and achievements at a prominent statistics and data science conference in May 2024.
+- Achieved over 90% accuracy and 80% F1 scores in most target labels. Saved days of model complexity and training time using efficient sampling, overcoming significant imbalance.
+- Presented findings and achievements at a prominent statistics and data science conference in May 2024.
 
 ## Upscale Analytics, Statistics & Machine Learning Instructor
 
