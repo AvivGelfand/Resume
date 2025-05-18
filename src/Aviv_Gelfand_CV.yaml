@@ -74,7 +74,7 @@ cv:
       - label: GenAI Tools
         details: "Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models"
       - label: EDA & ETL
-        details: visualizing, cleaning, imputing, encoding/embedding; DataBricks, DataGrip, OpenSearch (Elastic)
+        details: visualizing, cleaning, encoding/embedding; Pandas,NumPy; DataBricks, DataGrip, OpenSearch (Elastic)
       - label: ML & Stats
         details: "SKLearn, PyTorch, PEFT, LORA; model evaluations, error analysis, robust measurement, efficient sampling"
       - label: CI/CD & Other
