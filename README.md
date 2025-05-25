@@ -16,7 +16,7 @@
 - Dedicated to long-term growth in a full-time role at a DS/ML/MLE team with a positive atmosphere where I can help turn innovative ideas into reality.
 # Experience
 
-## Darrow AI - Data Science Team, Data Scientist - Full-Time Internship
+## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – present
 - Designed and deployed an A-Z production pipeline that uncovered a \$1M+ value sale. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
