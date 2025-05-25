@@ -21,7 +21,7 @@
 - 2024 – present
 - Designed and deployed an A-Z production pipeline that uncovered a \$1M+ value sale. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
 - Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders.
-- Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch and Postgress databases.
+- Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
 
 ## Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
 
