@@ -26,7 +26,7 @@
 ## Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
 
 - 2023 – 2024
-- Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging. Applied PEFT and LoRA with HF and PyTorch.
+- Executed Supervised-Fine-Tuning of open-source LLMs to classify textual argument-types in trials; reduced labeling time and errors, replacing manual tagging with LLM-based tagging. Applied PEFT and LoRA with HF, PyTorch, and CUDA.
 - Achieved over 90% accuracy and 80% F1 scores in most target labels. Saved days of model complexity and training time using efficient sampling, overcoming significant imbalance.
 - Presented findings and achievements at a prominent statistics and data science conference in May 2024.
 
@@ -60,7 +60,7 @@
 # Skills and Technologies
 
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS;
-- GenAI Tools: Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning open-source models
-- EDA & ETL: visualizing, cleaning, encoding/embedding; Pandas,NumPy; DataBricks, DataGrip, OpenSearch (Elastic)
+- GenAI Tools: Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning open-source LLMs
+- EDA & ETL: visualizing, cleaning, encoding/embedding; Pandas, NumPy; DataBricks, DataGrip, OpenSearch (Elastic)
 - ML & Stats: SKLearn, PyTorch, PEFT, LORA; model evaluations, error analysis, robust measurement, efficient sampling
-- CI/CD & Other: GIT, Docker, Aiflow, GitHub workflows, shell scripts, DataDog (on-call shifts)
+- CI/CD & Other: Aiflow, DataDog, Docker, sh scripts, GitHub workflows
