@@ -12,7 +12,7 @@ cv:
   # SUMMARY
     summary:
       - bullet: 'Early-career Data Scientist with production-level experience in DS roles across tech, academia, military, and training industries. MSc in progress (HUJI, Data Science); BSc Statistics & Data Science (HUJI, GPA: 89).'
-      - bullet: 'Proven ability to research, design, and implement robust and impactful ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning.'
+      - bullet: 'Proven ability to research, design, and implement secure and robust ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning.'
       # A financial geek, a hackathoner, and a volleyball player.
       - bullet: 'Dedicated to long-term growth in a full-time role at a DS/ML/AI team, and help turn innovative ideas into reality.'
     
@@ -24,7 +24,7 @@ cv:
         end_date: 
         highlights:
           - Designed and deployed an A-Z production pipeline that uncovered a \$1M+ value sale. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
-          - Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders. 
+          - Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders, with safety constraints and vulnerability assessments. 
           - Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
       - company: "Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist & Research Assistant
@@ -52,8 +52,8 @@ cv:
         start_date: 2015
         end_date: 2020
         highlights:
-          - "Conducted research, assessments, and analytics for high-ranked decision-makers and teams' products."
-          - Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches.
+          - "Conducted research, threat assessments, and analysis for high-ranked decision-makers and multiplied my team's work products."
+          - "Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches."
     
     # EDUCATION
     education:
@@ -74,11 +74,11 @@ cv:
       - label: GenAI Tools
         details: "Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning open-source LLMs"
       - label: EDA & ETL
-        details: visualizing, cleaning, encoding/embedding; Pandas, NumPy; DataBricks, DataGrip, OpenSearch (Elastic)
+        details: "Visualizing, cleaning, encoding/embedding; Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL)"
       - label: ML & Stats
-        details: "SKLearn, PyTorch, PEFT, LORA; model evaluations, error analysis, robust measurement, efficient sampling"
+        details: "SKLearn, PyTorch, PEFT, LORA; model evaluations, error analysis, robust measurements, efficient sampling"
       - label: CI/CD & Other
-        details: Aiflow, DataDog, Docker, sh scripts, GitHub workflows
+        details: "AWS (ECS, SSM, Parameter Store, S3), Aiflow, DataDog, sh scripts, GitHub workflows"
 design:
   theme: sb2nov
   font: Latin Modern Serif
