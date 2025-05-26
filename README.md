@@ -44,7 +44,7 @@
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
 - 2015 – 2020
-- Conducted research, threat assessments, and analysis for high-ranked decision-makers and multiplied my team's work products.
+- Conducted research, threat assessments, and analysis for high-ranked decision-makers and enhanced output capacity.
 - Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches.
 
 # Education
