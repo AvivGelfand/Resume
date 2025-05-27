@@ -72,11 +72,11 @@ cv:
       - label: Scripting Languages and Tools
         details: Python, Java, Solidity (C++ based), R, SQL, JS; 
       - label: GenAI Tools
-        details: "Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning open-source LLMs"
+        details: "Prompt engineering techniques (CoT, Few-Shot, etc), output schemas, fine-tuning LLMs (SFT)"
       - label: EDA & ETL
         details: "Visualizing, cleaning, encoding/embedding; Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL)"
       - label: ML & Stats
-        details: "SKLearn, PyTorch, PEFT, LORA; model evaluations, error analysis, robust measurements, efficient sampling"
+        details: "SKLearn, PyTorch,SciPy, PEFT; model evaluations, error analysis, robust measurements, efficient sampling"
       - label: CI/CD & Other
         details: "AWS (ECS, SSM, Parameter Store, S3), Aiflow, DataDog, sh scripts, GitHub workflows"
 design:
