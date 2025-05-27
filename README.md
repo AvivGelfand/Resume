@@ -60,7 +60,7 @@
 # Skills and Technologies
 
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS;
-- GenAI Tools: Prompt Engineering (CoT, Few-Shot, eg.), structured output schemas (Pydantic), fine-tuning LLMs (SFT, HF)
-- EDA & ETL: Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Visualizing, cleaning, encoding/embedding
-- ML & Stats: SKLearn, PyTorch, SciPy, PEFT; model evaluations, error analysis, robust measurements, efficient sampling
-- CI/CD & Other: AWS (ECS, SSM, Parameter Store, S3; Apache Aiflow (DAGs), DataDog (logs), sh scripts, GitHub & GitLab
+- GenAI Tools: Prompt Engineering (CoT, Few-Shot, eg.), structured outputs (Pydantic), HuggingFace Transformers (SFT, PEFT)
+- EDA & ETL: Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding/embedding, and visualising
+- ML & Stats: SKLearn, PyTorch; feature engineering, statistical analysis, evaluations & error analysis, efficient sampling
+- CI/CD & Other: AWS (ECS, SSM, Parameter Store, S3), Apache Aiflow, DataDog (logs), Shell scripts, GitHub & GitLab
