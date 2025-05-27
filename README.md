@@ -19,8 +19,8 @@
 ## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – present
-- Designed and deployed an A-Z production pipeline that uncovered a \$1M+ needle in large medical data sets. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
-- Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders, with safety constraints and vulnerability assessments.
+- Designed and deployed an A-Z production pipeline that uncovered a \$1M+ needle in large medical data sets. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with domain-specific intelligence, integrating multi-source web scraping.
+- Performed numerous model evaluations and error analyses querying large-scale text datasets, collaborating with senior DSs, DEs, PMs, and other stakeholders.
 - Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
 
 ## Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
@@ -60,7 +60,7 @@
 # Skills and Technologies
 
 - Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS;
-- GenAI Tools: Prompt Engineering (CoT, Few-Shot, eg.), structured outputs (Pydantic), HuggingFace Transformers (SFT, PEFT)
-- EDA & ETL: Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding/embedding, and visualising
+- GenAI Tools: Prompt Engineering (CoT, Few-Shot, eg.), structured outputs, HuggingFace Transformers (SFT, PEFT)
+- EDA & ETL: Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines
 - ML & Stats: SKLearn, PyTorch; feature engineering, statistical analysis, evaluations & error analysis, efficient sampling
 - CI/CD & Other: AWS (ECS, SSM, Parameter Store, S3), Apache Aiflow, DataDog (logs), Shell scripts, GitHub & GitLab
