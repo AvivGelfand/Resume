@@ -19,7 +19,7 @@
 ## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – present
-- Designed and deployed an A-Z production pipeline that uncovered a \$1M+ value sale. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
+- Designed and deployed an A-Z production pipeline that uncovered a \$1M+ needle in large medical data sets. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered lead databases with domain-specific intelligence, integrating multi-source web scraping.
 - Performed numerous model evaluations and error analyses, collaborating with senior DSs, DEs, PMs, and other stakeholders, with safety constraints and vulnerability assessments.
 - Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
 
