@@ -63,4 +63,4 @@
 - GenAI Tools: Prompt Engineering (CoT, Few-Shot, eg.), structured output schemas (Pydantic), fine-tuning LLMs (SFT, HF)
 - EDA & ETL: Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Visualizing, cleaning, encoding/embedding
 - ML & Stats: SKLearn, PyTorch, SciPy, PEFT; model evaluations, error analysis, robust measurements, efficient sampling
-- CI/CD & Other: AWS (ECS, SSM, Parameter Store, S3), Aiflow, DataDog, sh scripts, GitHub workflows
+- CI/CD & Other: AWS (ECS, SSM, Parameter Store, S3; Apache Aiflow (DAGs), DataDog (logs), sh scripts, GitHub & GitLab
