@@ -19,9 +19,9 @@
 ## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – present
-- Designed and deployed an A-Z production pipeline that uncovered a \$1M+ needle in large medical data sets. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with domain-specific intelligence, integrating multi-source web scraping.
-- Performed numerous model evaluations and error analyses querying large-scale text datasets, collaborating with senior DSs, DEs, PMs, and other stakeholders.
-- Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
+- Designed and deployed an end-to-end pipelines that uncovered a \$1M+ needle in large medical data sets.
+- Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with medical domains intelligence, integrating multi-source enrichment.
+- Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
 
 ## Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
 
