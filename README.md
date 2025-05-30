@@ -44,7 +44,7 @@
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
 
 - 2015 – 2020
-- Conducted research, threat assessments, and analysis for high-ranked decision-makers and enhanced output capacity.
+- Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity.
 - Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches.
 
 # Education
@@ -61,6 +61,6 @@
 
 - Languages and Tools: Python,SQL, Java, Solidity (C++ based), R, JS;
 - LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
-- EDA & ETL: Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines
-- ML & Stats: SKLearn, PyTorch; feature engineering, statistical analysis, evaluations & error analysis, efficient sampling
-- CI/CD & Other: AWS (ECS, SSM, Parameter Store, S3), Apache Aiflow, DataDog (logs), Shell scripts, GitHub & GitLab
+- ML & NLP: Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling
+- Data Handling: Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip
+- CI/CD & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog (logs), Shell scripts, GitHub & GitLab
