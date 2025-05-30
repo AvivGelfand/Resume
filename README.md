@@ -11,9 +11,10 @@
 
 # Summary
 
-- Early-career Data Scientist with production-level experience in DS roles across tech, academia, military, and training industries. MSc in progress (HUJI, Data Science); BSc Statistics & Data Science (HUJI, GPA: 89).
-- Proven ability to research, design, and implement secure and robust ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning.
-- Dedicated to long-term growth in a full-time role at a DS/ML/AI team, and help turn innovative ideas into reality.
+- Hands-on Applied Data Scientist with a proven record of building and deploying real-world AI and NLP solutions in startup, academic, and military settings.
+- Skilled in LLMs, prompt engineering, and production ML pipelines.
+- Passionate about using data science to drive impactful, user-centered applications. 
+- MSc candidate in Data Science (Hebrew University, LLM-focused thesis).
 # Experience
 
 ## Darrow AI - Data Science Team, Data Scientist
