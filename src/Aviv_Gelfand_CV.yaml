@@ -11,10 +11,13 @@ cv:
   sections:
   # SUMMARY
     summary:
-      - bullet: 'Early-career Data Scientist with production-level experience in DS roles across tech, academia, military, and training industries. MSc in progress (HUJI, Data Science); BSc Statistics & Data Science (HUJI, GPA: 89).'
-      - bullet: 'Proven ability to research, design, and implement secure and robust ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning.'
+      - bullet: 'Hands-on Applied Data Scientist with a proven record of building and deploying real-world AI and NLP solutions in startup, academic, and military settings.'
+      - bullet: 'Skilled in LLMs, prompt engineering, and production ML pipelines.'
+      - bullet: 'Passionate about using data science to drive impactful, user-centered applications. '
+      - bullet: 'MSc candidate in Data Science (Hebrew University, LLM-focused thesis).'
+      # - bullet: 'Proven ability to research, design, and implement robust ML solutions, in complex real-world settings, combining high-level software engineering practices with close collaboration and rapid self-learning.'
       # A financial geek, a hackathoner, and a volleyball player.
-      - bullet: 'Dedicated to long-term growth in a full-time role at a DS/ML/AI team, and help turn innovative ideas into reality.'
+      # - bullet: 'Dedicated to long-term growth in a full-time role at a DS/ML/AI team, and help turn innovative ideas into reality.'
     
     # EXPERIENCE
     experience:
@@ -24,6 +27,7 @@ cv:
         end_date: 
         highlights:
           - Designed and deployed an A-Z production pipeline that uncovered a \$1M+ needle in large medical data sets. Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with domain-specific intelligence, integrating multi-source web scraping.
+          # - Built and deployed end-to-end ML pipelines uncovering $1M+ value sales using LLMs and multi-source enrichment.
           - Performed numerous model evaluations and error analyses querying large-scale text datasets, collaborating with senior DSs, DEs, PMs, and other stakeholders. 
           - Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
       - company: "Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab"
