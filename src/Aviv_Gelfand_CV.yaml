@@ -65,7 +65,7 @@ cv:
     # EDUCATION
     education:
       - institution: The Hebrew University of Jerusalem
-        area: Data Science | LLMs-focused Thesis.
+        area: Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe
         degree: MSc
         start_date: 2024
         end_date: 2027
@@ -76,10 +76,10 @@ cv:
         end_date: 2024
 
     Skills and Technologies:
-      - label: Scripting Languages and Tools
-        details: Python, Java, Solidity (C++ based), R, SQL, JS; 
-      - label: GenAI Tools
-        details: "Prompt Engineering (CoT, Few-Shot, eg.), structured outputs, HuggingFace Transformers (SFT, PEFT)"
+      - label: Languages and Tools
+        details: Python,SQL, Java, Solidity (C++ based), R, JS; 
+      - label: LLM & GenAI
+        details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
       - label: EDA & ETL
         details: "Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines"
       - label: ML & Stats
