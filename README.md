@@ -49,7 +49,7 @@
 
 # Education
 
-## The Hebrew University of Jerusalem, MSc in Data Science | LLMs-focused Thesis.
+## The Hebrew University of Jerusalem, MSc in Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe
 
 - 2024 – 2027
 
@@ -59,8 +59,8 @@
 
 # Skills and Technologies
 
-- Scripting Languages and Tools: Python, Java, Solidity (C++ based), R, SQL, JS;
-- GenAI Tools: Prompt Engineering (CoT, Few-Shot, eg.), structured outputs, HuggingFace Transformers (SFT, PEFT)
+- Languages and Tools: Python,SQL, Java, Solidity (C++ based), R, JS;
+- LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
 - EDA & ETL: Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines
 - ML & Stats: SKLearn, PyTorch; feature engineering, statistical analysis, evaluations & error analysis, efficient sampling
 - CI/CD & Other: AWS (ECS, SSM, Parameter Store, S3), Apache Aiflow, DataDog (logs), Shell scripts, GitHub & GitLab
