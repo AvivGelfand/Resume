@@ -59,7 +59,7 @@ cv:
         start_date: 2015
         end_date: 2020
         highlights:
-          - "Conducted research, threat assessments, and analysis for high-ranked decision-makers and enhanced output capacity."
+          - "Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity."
           - "Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches."
     
     # EDUCATION
@@ -80,12 +80,14 @@ cv:
         details: Python,SQL, Java, Solidity (C++ based), R, JS; 
       - label: LLM & GenAI
         details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
-      - label: EDA & ETL
-        details: "Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines"
-      - label: ML & Stats
-        details: "SKLearn, PyTorch; feature engineering, statistical analysis, evaluations & error analysis, efficient sampling"
-      - label: CI/CD & Other
-        details: "AWS (ECS, SSM, Parameter Store, S3), Apache Aiflow, DataDog (logs), Shell scripts, GitHub & GitLab"
+      - label: ML & NLP
+        details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling"
+      - label: Data Handling
+        details: "Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip"
+        # details: "Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines"
+      - label: CI/CD & Infra
+        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog (logs), Shell scripts, GitHub & GitLab"
+        # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
 design:
   theme: sb2nov
   font: Latin Modern Serif
