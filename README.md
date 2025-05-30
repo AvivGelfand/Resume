@@ -12,9 +12,8 @@
 # Summary
 
 - Hands-on Applied Data Scientist with a proven record of building and deploying real-world AI and NLP solutions in startup, academic, and military settings.
-- Skilled in LLMs, prompt engineering, and production ML pipelines.
-- Passionate about using data science to drive impactful, user-centered applications. 
-- MSc candidate in Data Science (Hebrew University, LLM-focused thesis).
+- Skilled in LLMs, prompt engineering, and production ML pipelines. Passionate about using data science to drive impactful, user-centered applications. 
+- MSc candidate in Data Science (Hebrew University, LLM-focused thesis), on a flexible schedule, structured to prioritize a full-time role at a DS/ML/AI team.
 # Experience
 
 ## Darrow AI - Data Science Team, Data Scientist
@@ -50,9 +49,9 @@
 
 # Education
 
-## The Hebrew University of Jerusalem, MSc in Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe.
+## The Hebrew University of Jerusalem, MSc in Data Science | LLMs-focused Thesis.
 
-- 2024 – 2026
+- 2024 – 2027
 
 ## The Hebrew University of Jerusalem, BSc in Statistics & Data Science (GPA 89)
 
