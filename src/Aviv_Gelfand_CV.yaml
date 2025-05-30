@@ -30,6 +30,8 @@ cv:
           # - Built and deployed end-to-end ML pipelines uncovering $1M+ value sales using LLMs and multi-source enrichment.
           # - Performed numerous model evaluations and error analyses querying large-scale text datasets, collaborating with senior DSs, DEs, PMs, and other stakeholders. 
           - Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
+          # Can also talk about working with Jira 
+          # if the job is focused on Classic ML: I can mention developing classic classification models with ML saving latency.
           # - Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
       - company: "Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab"
         position: NLP Data Scientist & Research Assistant
