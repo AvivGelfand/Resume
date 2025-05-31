@@ -87,7 +87,8 @@ cv:
         degree: BSc
         start_date: 2021
         end_date: 2024
-
+    
+    # SKILLS
     Skills and Technologies:
       - label: Languages and Tools
         details: Python,SQL, Java, Solidity (C++ based), R, JS; 
@@ -102,11 +103,15 @@ cv:
       - label: Data Handling
         details: "Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip"
         # details: "Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines"
-      - label: CI/CD, Automation & Infra
-        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab"
+      # Software Sngineering/Development oriented
+      # - label: CI/CD & Infra 
+      # automation/enabalement oriented
         # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
+      - label: CI/CD & Automation 
+        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts GitLab"
+      #  Business & Risk oriented
       - label: Business & Risk
-        details: "Strategic analytics, stakeholder collaboration, operational research models, and financial acumen"
+        details: "Strategic analytics, stakeholder collaboration, operational research, stock markets and financial acumen"
 design:
   theme: sb2nov
   font: Latin Modern Serif
