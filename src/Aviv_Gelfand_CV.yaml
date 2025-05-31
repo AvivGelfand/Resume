@@ -86,7 +86,7 @@ cv:
         details: "Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip"
         # details: "Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines"
       - label: CI/CD & Infra
-        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog (logs), Shell scripts, GitHub & GitLab"
+        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab"
         # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
 design:
   theme: sb2nov
