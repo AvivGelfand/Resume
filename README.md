@@ -31,10 +31,10 @@
 - Achieved over 90% accuracy and 80% F1 scores in most target labels. Saved days of model complexity and training time using efficient sampling, overcoming significant imbalance.
 - Presented findings and achievements at a prominent statistics and data science conference in May 2024.
 
-## Upscale Analytics, Statistics & Machine Learning Instructor
+## Upscale Analytics, Statistics & Machine Learning Trainer
 
 - 2022 – 2024
-- Built dozens of hands-on  ML projects as assignments for a practical course in statistical inference and classic ML, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
+- Built dozens of hands-on ML projects as assignments for a practical course in Statistical Inference and classic ML (Regression, Classification and Clustering), with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
 - Advanced from teaching assistant to instructor, then to a full rights partner after 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries.
 
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Economic Research Team Leader
@@ -55,7 +55,7 @@
 
 # Skills and Technologies
 
-- Languages and Tools: Python,SQL, Java, Solidity (C++ based), R, JS;
+- Languages and Tools: Python, SQL, Java, Solidity (C++ based), R, JS;
 - LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
 - ML & NLP: Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling
 - Data Handling: Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip
