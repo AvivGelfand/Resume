@@ -22,7 +22,7 @@
 - Designed and deployed an end-to-end pipelines that detected a \$1M+ needle in large medical data sets.
 - Conducted in-depth Error Analysis to improve automation efficacy. Delivered under tight operational deadlines and cross-functional collaboration.
 - Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with medical domains intelligence, integrating multi-source enrichment.
-- Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
+- Designed Airflow pipelines integrated with model endpoints, querying AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
 
 ## Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab, NLP Data Scientist & Research Assistant
 
@@ -50,7 +50,7 @@
 
 # Education
 
-## The Hebrew University of Jerusalem, MSc in Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe
+## The Hebrew University of Jerusalem, MSc in Data Science | ML-focused Thesis, guided by Prof. Ariel Jaffe
 
 - 2024 – present
 
