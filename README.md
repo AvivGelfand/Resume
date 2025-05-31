@@ -52,7 +52,7 @@
 
 ## The Hebrew University of Jerusalem, MSc in Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe
 
-- 2024 – 2027
+- 2024 – present
 
 ## The Hebrew University of Jerusalem, BSc in Statistics & Data Science (GPA 89)
 
