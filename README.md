@@ -37,17 +37,18 @@
 - Built dozens of hands-on ML projects as assignments for a practical course in Statistical Inference and classic ML (Regression, Classification and Clustering), with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
 - Advanced from teaching assistant to instructor, then to a full rights partner after 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries.
 
-## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Economic Research Team Leader
+## Israel Defense Forces (Volunteered, Lieutenant), Applied Researcher
 
 - 2015 – 2020
-- Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity.
-- Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches.
+- Spear-headed applied research initiatives in the IDF intelligence community, focusing on complex decision-making and data-driven threat assessments.
+- Delivered multi-source research papers and collaborated cross-functionally with intelligence units.
+- Designed and delivered a project with a programming team for an indicators dashboard app for a major general.
 
 # Education
 
 ## The Hebrew University of Jerusalem, MSc in Data Science | ML-focused Thesis, guided by Prof. Ariel Jaffe
 
-- 2024 – present
+- 2024 – 2026
 
 ## The Hebrew University of Jerusalem, BSc in Statistics & Data Science and Business Administration (GPA 89)
 
@@ -56,8 +57,7 @@
 # Skills and Technologies
 
 - Languages and Tools: Python, SQL, Java, Solidity (C++ based), R, JS;
-- ML & NLP: Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling
-- Data Handling: Pandas, NumPy; DataBricks, AWS OpenSearch and RDS (PostgreSQL); Cleaning and  encoding tabular data
-- CI/CD & Automation: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows
-- Business & Risk: Strategic analytics, stakeholder collaboration, operational research, stock markets and financial acumen
 - LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
+- ML & NLP: Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, optimal sampling
+- CI/CD & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows
+- Data Handling: Pandas, NumPy; DataBricks, AWS OpenSearch and RDS (PostgreSQL); Cleaning and  encoding tabular data
