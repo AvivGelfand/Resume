@@ -29,13 +29,13 @@ cv:
           - Designed and deployed an end-to-end pipelines that detected a \$1M+ needle in large medical data sets. 
           - Conducted in-depth Error Analysis to improve automation efficacy. Delivered under tight operational deadlines and cross-functional collaboration.
           - Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with medical domains intelligence, integrating multi-source enrichment.
-          - Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
+          - Designed Airflow pipelines integrated with model endpoints, querying AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
           # NLP / LLMs oriented
           # - Designed and deployed an end-to-end pipelines that uncovered a \$1M+ needle in large medical data sets. 
           # - Built and deployed end-to-end ML pipelines uncovering $1M+ value sales using LLMs and multi-source enrichment.
           # - Performed numerous model evaluations and error analyses querying large-scale text datasets, collaborating with senior DSs, DEs, PMs, and other stakeholders. 
           # - Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
-          # Can also talk about working with Jira 
+          # Atlassian and Confluence (JIRA)
           # if the job is focused on Classic ML: I can mention developing classic classification models with ML saving latency.
           # - Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
       - company: "Hebrew University of Jerusalem, Adi Leibovitch's Quantitative Legal Research lab"
@@ -75,7 +75,10 @@ cv:
     # EDUCATION
     education:
       - institution: The Hebrew University of Jerusalem
-        area: Data Science | LLMs-focused Thesis, guided by Prof. Ariel Jaffe
+        # Classic ML Oriented
+        area: Data Science | ML-focused Thesis, guided by Prof. Ariel Jaffe
+        # NLP/LLM/GenAI Oriented
+        # area: Data Science | LLM-focused Thesis, guided by Prof. Ariel Jaffe
         degree: MSc
         start_date: 2024
         end_date: 
