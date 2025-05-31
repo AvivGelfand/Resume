@@ -47,11 +47,11 @@ cv:
           - Achieved over 90% accuracy and 80% F1 scores in most target labels. Saved days of model complexity and training time using efficient sampling, overcoming significant imbalance. 
           - Presented findings and achievements at a prominent statistics and data science conference in May 2024.
       - company: Upscale Analytics
-        position: Statistics & Machine Learning Instructor
+        position: Statistics & Machine Learning Trainer
         start_date: 2022
         end_date: 2024
         highlights:
-          - Built dozens of hands-on  ML projects as assignments for a practical course in statistical inference and classic ML, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. 
+          - Built dozens of hands-on ML projects as assignments for a practical course in Statistical Inference and classic ML (Regression, Classification and Clustering), with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. 
           - Advanced from teaching assistant to instructor, then to a full rights partner after 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries. 
       # - company: "Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab"
       #   position: Programmer & Research Assistant
@@ -91,7 +91,7 @@ cv:
     # SKILLS
     Skills and Technologies:
       - label: Languages and Tools
-        details: Python,SQL, Java, Solidity (C++ based), R, JS; 
+        details: Python, SQL, Java, Solidity (C++ based), R, JS; 
       - label: LLM & GenAI
         details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
       # NLP/LLM/GenAI Oriented
