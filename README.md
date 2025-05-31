@@ -59,5 +59,5 @@
 - LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
 - ML & NLP: Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling
 - Data Handling: Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip
-- CI/CD & Automation: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts GitLab
+- CI/CD & Automation: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows
 - Business & Risk: Strategic analytics, stakeholder collaboration, operational research, stock markets and financial acumen
