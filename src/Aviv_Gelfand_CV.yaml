@@ -61,16 +61,17 @@ cv:
       #     - Self-taught and programmed smart contracts with a C++-based programming language. Developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews. 
       - company: Israel Defense Forces (Volunteered, Lieutenant) 
         # Fraud / Risk Detection oriented
-        position: Data Analyst & Economic Research Team Leader
+        # position: Data Analyst & Economic Research Team Leader
         # General Data Science Oriented
-        # position: Data Analyst & Research Team Leader
+        position: Applied Researcher 
         start_date: 2015
         end_date: 2020
         highlights:
           # Fraud / Risk Detection oriented
           # - "Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity."
-          - "Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity."
-          - "Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches."
+          - "Spear-headed applied research initiatives in the IDF intelligence community, focusing on complex decision-making and data-driven threat assessments."
+          - "Delivered multi-source research papers and collaborated cross-functionally with intelligence units."
+          - "Designed and delivered a project with a programming team for an indicators dashboard app for a major general."
           
     # EDUCATION
     education:
@@ -81,7 +82,7 @@ cv:
         # area: Data Science | LLM-focused Thesis, guided by Prof. Ariel Jaffe
         degree: MSc
         start_date: 2024
-        end_date: 
+        end_date: 2026
       - institution: The Hebrew University of Jerusalem
         area: Statistics & Data Science and Business Administration (GPA 89)
         degree: BSc
@@ -92,26 +93,25 @@ cv:
     Skills and Technologies:
       - label: Languages and Tools
         details: Python, SQL, Java, Solidity (C++ based), R, JS; 
+      # NLP/LLM/GenAI Oriented
+      - label: LLM & GenAI
+        details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
       - label: ML & NLP
-        details: "Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling"
+        details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, optimal sampling"
+      # Software Sngineering/Development oriented
+      - label: CI/CD & Infra 
+        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows"
       - label: Data Handling
         details: "Pandas, NumPy; DataBricks, AWS OpenSearch and RDS (PostgreSQL); Cleaning and  encoding tabular data"
         # details: "Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip"
-      # Software Sngineering/Development oriented
-      # - label: CI/CD & Infra 
-      # automation/enabalement oriented
-        # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
-      - label: CI/CD & Automation 
-        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows"
-      #  Business & Risk oriented
-      - label: Business & Risk
-        details: "Strategic analytics, stakeholder collaboration, operational research, stock markets and financial acumen"
-      - label: LLM & GenAI
-        details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
-      # NLP/LLM/GenAI Oriented
       # - label: ML & NLP
-        # details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling"
-      # Classic ML/Fraud/Risk oriented
+        # details: "Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling"
+      # automation/enabalement oriented
+      # - label: CI/CD & Automation 
+      # #  Business & Risk oriented
+        # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
+      # - label: Business & Risk
+      #   details: "Strategic analytics, stakeholder collaboration, operational research, stock markets and financial acumen"
 design:
   theme: sb2nov
   font: Latin Modern Serif
