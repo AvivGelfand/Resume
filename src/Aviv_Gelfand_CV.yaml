@@ -53,14 +53,14 @@ cv:
         highlights:
           - Built dozens of hands-on  ML projects as assignments for a practical course in statistical inference and classic ML, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer. 
           - Advanced from teaching assistant to instructor, then to a full rights partner after 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries. 
-      - company: "Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab"
-        position: Programmer & Research Assistant
-        start_date: 2022
-        end_date: 2023
-        highlights:
-          - Self-taught and programmed smart contracts with a C++-based programming language. Developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews. 
+      # - company: "Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab"
+      #   position: Programmer & Research Assistant
+      #   start_date: 2022
+      #   end_date: 2023
+      #   highlights:
+      #     - Self-taught and programmed smart contracts with a C++-based programming language. Developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews. 
       - company: Israel Defense Forces (Volunteered, Lieutenant) 
-          # Fraud / Risk Detection oriented
+        # Fraud / Risk Detection oriented
         position: Data Analyst & Economic Research Team Leader
         # General Data Science Oriented
         # position: Data Analyst & Research Team Leader
@@ -83,7 +83,7 @@ cv:
         start_date: 2024
         end_date: 
       - institution: The Hebrew University of Jerusalem
-        area: Statistics & Data Science (GPA 89) 
+        area: Statistics & Data Science and Business Administration (GPA 89)
         degree: BSc
         start_date: 2021
         end_date: 2024
@@ -93,13 +93,20 @@ cv:
         details: Python,SQL, Java, Solidity (C++ based), R, JS; 
       - label: LLM & GenAI
         details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
+      # NLP/LLM/GenAI Oriented
+      # - label: ML & NLP
+        # details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling"
+      # Classic ML/Fraud/Risk oriented
       - label: ML & NLP
-        details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling"
+        details: "Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling"
       - label: Data Handling
         details: "Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip"
         # details: "Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines"
-      - label: CI/CD & Infra
+      - label: CI/CD, Automation & Infra
         details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab"
+        # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
+      - label: Business & Risk
+        details: "Strategic analytics, stakeholder collaboration, operational efficiency, and financial acumen"
         # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
 design:
   theme: sb2nov
