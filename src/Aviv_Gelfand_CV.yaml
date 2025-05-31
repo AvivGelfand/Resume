@@ -106,8 +106,7 @@ cv:
         details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab"
         # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
       - label: Business & Risk
-        details: "Strategic analytics, stakeholder collaboration, operational efficiency, and financial acumen"
-        # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
+        details: "Strategic analytics, stakeholder collaboration, operational research models, and financial acumen"
 design:
   theme: sb2nov
   font: Latin Modern Serif
