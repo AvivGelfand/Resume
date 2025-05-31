@@ -108,7 +108,7 @@ cv:
       # automation/enabalement oriented
         # details: "AWS (ECS, SSM, Parameter Store, S3), Apache Airflow, DataDog (logs), Shell scripts, GitHub & GitLab"
       - label: CI/CD & Automation 
-        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts GitLab"
+        details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows"
       #  Business & Risk oriented
       - label: Business & Risk
         details: "Strategic analytics, stakeholder collaboration, operational research, stock markets and financial acumen"
