@@ -25,11 +25,16 @@ cv:
         start_date: 2024
         end_date: 
         highlights:
-          - Designed and deployed an end-to-end pipelines that uncovered a \$1M+ needle in large medical data sets. 
+          # Fraud / Risk Detection oriented
+          - Designed and deployed an end-to-end pipelines that detected a \$1M+ needle in large medical data sets. 
+          - Conducted in-depth Error Analysis to improve automation efficacy. Delivered under tight operational deadlines and cross-functional collaboration.
           - Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with medical domains intelligence, integrating multi-source enrichment.
+          - Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
+          # NLP / LLMs oriented
+          # - Designed and deployed an end-to-end pipelines that uncovered a \$1M+ needle in large medical data sets. 
           # - Built and deployed end-to-end ML pipelines uncovering $1M+ value sales using LLMs and multi-source enrichment.
           # - Performed numerous model evaluations and error analyses querying large-scale text datasets, collaborating with senior DSs, DEs, PMs, and other stakeholders. 
-          - Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
+          # - Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
           # Can also talk about working with Jira 
           # if the job is focused on Classic ML: I can mention developing classic classification models with ML saving latency.
           # - Worked with AWS environment, Airflow, Atlassian (JIRA). Built pipelines querying across model endpoints, S3 data lakes, Elastic / OpenSearch, and PostgreSQL databases.
@@ -55,13 +60,18 @@ cv:
         highlights:
           - Self-taught and programmed smart contracts with a C++-based programming language. Developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews. 
       - company: Israel Defense Forces (Volunteered, Lieutenant) 
-        position: Data Analyst & Research Team Leader
+          # Fraud / Risk Detection oriented
+        position: Data Analyst & Economic Research Team Leader
+        # General Data Science Oriented
+        # position: Data Analyst & Research Team Leader
         start_date: 2015
         end_date: 2020
         highlights:
+          # Fraud / Risk Detection oriented
+          # - "Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity."
           - "Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity."
           - "Led cross-org initiatives, yielding in-depth research papers via unprecedented cooperations with research branches."
-    
+          
     # EDUCATION
     education:
       - institution: The Hebrew University of Jerusalem
