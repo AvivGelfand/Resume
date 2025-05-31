@@ -94,7 +94,7 @@ cv:
       - label: LLM & GenAI
         details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
       - label: ML & NLP
-        details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, optimal sampling"
+        details: "SciPy, Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, optimal sampling"
       # Software Sngineering/Development oriented
       - label: CI/CD & Infra 
         details: "AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows"
