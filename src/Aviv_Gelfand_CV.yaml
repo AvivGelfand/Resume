@@ -92,17 +92,11 @@ cv:
     Skills and Technologies:
       - label: Languages and Tools
         details: Python, SQL, Java, Solidity (C++ based), R, JS; 
-      - label: LLM & GenAI
-        details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
-      # NLP/LLM/GenAI Oriented
-      # - label: ML & NLP
-        # details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling"
-      # Classic ML/Fraud/Risk oriented
       - label: ML & NLP
         details: "Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling"
       - label: Data Handling
-        details: "Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip"
-        # details: "Pandas, NumPy; DataBricks, AWS OpenSearch, and RDS (PostgreSQL); Cleaning, encoding, and embedding pipelines"
+        details: "Pandas, NumPy; DataBricks, AWS OpenSearch and RDS (PostgreSQL); Cleaning and  encoding tabular data"
+        # details: "Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip"
       # Software Sngineering/Development oriented
       # - label: CI/CD & Infra 
       # automation/enabalement oriented
@@ -112,6 +106,12 @@ cv:
       #  Business & Risk oriented
       - label: Business & Risk
         details: "Strategic analytics, stakeholder collaboration, operational research, stock markets and financial acumen"
+      - label: LLM & GenAI
+        details: "Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA"
+      # NLP/LLM/GenAI Oriented
+      # - label: ML & NLP
+        # details: "Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling"
+      # Classic ML/Fraud/Risk oriented
 design:
   theme: sb2nov
   font: Latin Modern Serif
