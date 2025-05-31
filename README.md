@@ -60,6 +60,6 @@
 
 - Languages and Tools: Python, SQL, Java, Solidity (C++ based), R, JS;
 - LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
-- ML & NLP: Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, optimal sampling
+- ML & NLP: SciPy, Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, optimal sampling
 - CI/CD & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub workflows
 - Data Handling: Pandas, NumPy; DataBricks, AWS OpenSearch and RDS (PostgreSQL); Cleaning and  encoding tabular data
