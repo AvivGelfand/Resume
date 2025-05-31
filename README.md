@@ -63,4 +63,4 @@
 - LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
 - ML & NLP: Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling
 - Data Handling: Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip
-- CI/CD & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog (logs), Shell scripts, GitHub & GitLab
+- CI/CD & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab
