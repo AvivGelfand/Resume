@@ -60,4 +60,4 @@
 - ML & NLP: Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling
 - Data Handling: Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip
 - CI/CD, Automation & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab
-- Business & Risk: Strategic analytics, stakeholder collaboration, operational efficiency, and financial acumen
+- Business & Risk: Strategic analytics, stakeholder collaboration, operational research models, and financial acumen
