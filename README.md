@@ -37,11 +37,6 @@
 - Built dozens of hands-on  ML projects as assignments for a practical course in statistical inference and classic ML, with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
 - Advanced from teaching assistant to instructor, then to a full rights partner after 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries.
 
-## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Programmer & Research Assistant
-
-- 2022 – 2023
-- Self-taught and programmed smart contracts with a C++-based programming language. Developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews.
-
 ## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Economic Research Team Leader
 
 - 2015 – 2020
@@ -54,7 +49,7 @@
 
 - 2024 – present
 
-## The Hebrew University of Jerusalem, BSc in Statistics & Data Science (GPA 89)
+## The Hebrew University of Jerusalem, BSc in Statistics & Data Science and Business Administration (GPA 89)
 
 - 2021 – 2024
 
@@ -62,6 +57,7 @@
 
 - Languages and Tools: Python,SQL, Java, Solidity (C++ based), R, JS;
 - LLM & GenAI: Prompt Engineering (CoT, Few-Shot, eg.), OpenAI APIs, HF Transformers, PEFT, LoRA
-- ML & NLP: Scikit-learn, PyTorch, model evaluation, RAG-like enrichment flows, smart sampling
+- ML & NLP: Classification, Clustering, Anomaly Detection, Scikit-learn, PyTorch, model evaluation, smart sampling
 - Data Handling: Pandas, NumPy, PostgreSQL, OpenSearch, S3, DataGrip
-- CI/CD & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab
+- CI/CD, Automation & Infra: AWS (S3, ECS, SSM, Parameter Store), Apache Airflow, Docker, DataDog, Shell scripts, GitHub & GitLab
+- Business & Risk: Strategic analytics, stakeholder collaboration, operational efficiency, and financial acumen
