@@ -34,8 +34,13 @@
 ## Upscale Analytics, Statistics & Machine Learning Trainer
 
 - 2022 – 2024
-- Built dozens of hands-on ML projects as assignments for a practical course in Statistical Inference and classic ML (Regression, Classification and Clustering), with constant feedback from a Senior Data Scientist (and head lecturer), Michael Winer.
+- Built dozens of hands-on ML projects as assignments for a practical course in Statistical Inference and Classic ML, with constant feedback guidance from a Senior Data Scientist (and head lecturer), Michael Winer.
 - Advanced from teaching assistant to instructor, then to a full rights partner after 3 successful semesters of weekly TA sessions with a significant presence of students. Worked primarily with Scikit-Learn, SciPy, and XGBoost Libraries.
+
+## Hebrew University of Jerusalem, Renana Peres's Computational Social Science Lab, Programmer & Research Assistant
+
+- 2022 – 2023
+- Self-taught and programmed smart contracts with a C++-based programming language. Developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews.
 
 ## Israel Defense Forces (Volunteered, Lieutenant), Applied Researcher
 
