@@ -19,7 +19,8 @@
 ## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – present
-- Designed and deployed an end-to-end pipelines that uncovered a \$1M+ needle in large medical data sets.
+- Designed and deployed an end-to-end pipelines that detected a \$1M+ needle in large medical data sets.
+- Conducted in-depth Error Analysis to improve automation efficacy. Delivered under tight operational deadlines and cross-functional collaboration.
 - Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with medical domains intelligence, integrating multi-source enrichment.
 - Designed Airflow pipelines integrated with model endpoints, AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
 
@@ -41,7 +42,7 @@
 - 2022 – 2023
 - Self-taught and programmed smart contracts with a C++-based programming language. Developed a simulation interface (React.js). Designed and analyzed experiments, web-scraped data monthly, and did literature and academic peer reviews.
 
-## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Research Team Leader
+## Israel Defense Forces (Volunteered, Lieutenant), Data Analyst & Economic Research Team Leader
 
 - 2015 – 2020
 - Conducted research, threat assessments, and analysis for senior decision-makers and enhanced output capacity.
