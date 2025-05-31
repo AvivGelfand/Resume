@@ -11,7 +11,7 @@
 
 # Summary
 
-- Hands-on Applied Data Scientist with a proven record of building and deploying real-world AI and NLP solutions in startup, academic, and military settings.
+- Hands-on Applied Data Scientist with a proven record of building and deploying real-world AI and NLP solutions in high-tech, academic, and military settings.
 - Skilled in LLMs, prompt engineering, and production ML pipelines. Passionate about using data science to drive impactful, user-centered applications. 
 - MSc candidate in Data Science (Hebrew University, LLM-focused thesis), on a flexible schedule, structured to prioritize a full-time role at a DS/ML/AI team.
 # Experience
