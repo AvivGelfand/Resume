@@ -19,7 +19,7 @@
 ## Darrow AI - Data Science Team, Data Scientist
 
 - 2024 – present
-- Designed and deployed an end-to-end pipelines that detected a \$1M+ needle in large medical data sets.
+- Designed and deployed an end-to-end ML pipelines that detected a \$1M+ value of sales out of large medical data sets.
 - Conducted in-depth Error Analysis to improve automation efficacy. Delivered under tight operational deadlines and cross-functional collaboration.
 - Leveraged few-shot Chain-of-Thought LLM prompting, optimised costs with OpenAI’s Batch API, enriched and filtered leads databases with medical domains intelligence, integrating multi-source enrichment.
 - Designed Airflow pipelines integrated with model endpoints, querying AWS S3 data lakes, OpenSearch, and PostgreSQL. Built containerized components using Docker; collaborated with DEs, PMs, and product stakeholders.
